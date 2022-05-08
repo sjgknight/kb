@@ -1,5 +1,14 @@
 # CollectionBuilder-Sheets
 
+A fork of (the unfinished/incompletely documented) collectionbuilder-sheets...as far as I can see it works just fine.
+
+Uses a googlesheet feed to load data into a website template. 
+
+There may be other ways to do this e.g. explore
+
+* https://css-tricks.com/creating-an-editable-site-with-google-sheets-and-eleventy/ (demo https://11tygooglesheet.netlify.app/ ; git https://github.com/Atanda1/11tywithgooglesheet )
+* https://dylancastillo.co/build-a-site-quickly-using-google-sheets-python-and-aws/
+
 **Note: this template is not yet fully functional or documented! Check back soon**
 
 CollectionBuilder-Sheets is an experimental project template designed to load collection metadata directly from Google Sheets or other CSV. 

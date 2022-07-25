@@ -20,14 +20,14 @@ source-code: https://github.com/sjgknight/DSI_collection_sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: A test
+title: A space to build collective knowledge using google form submissions
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Shared knowledge base
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is an experimental template that directly parses CSVs to create small digital collection exhibits on GitHub Pages designed for teaching digital library skills. Work in Progress!"
+description: "This site is an experimental KB for DSI at UTS, built on the experimental CollectionBuilder-Sheets template that parses CSVs to create small digital collection exhibits on GitHub Pages."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder 
+author: sjgknight 
 
 ##########
 # COLLECTION SETTINGS
@@ -44,10 +44,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTS-x_CSAH7EtvK6EH
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "A test"
+organization-name: "Experimental DSI KB"
 organization-link: 
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-banner: 
+organization-logo-nav: https://creds.netlify.app/media/logo_hub5e844eb53de03c7940cf3922b4a615a_1460_0x70_resize_lanczos_2.png
 
 
 ##########

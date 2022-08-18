@@ -3,9 +3,9 @@
 name: googlesheet-actions
 
 # Do things every 5 minutes
-on:
-  schedule:
-    - cron: "*/5 * * * *"
+on: workflow_dispatch
+#  schedule:
+#    - cron: "*/5 * * * *"
 
 jobs:
     fetch:

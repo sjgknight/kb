@@ -1,4 +1,14 @@
-# This is a basic workflow to help you get started with Actions
+# Action downloads sheet using google sheets api v4
+
+# A sheets api key needs creating via https://console.cloud.google.com
+
+# Need to create a number of environment vars. To do this go to settings in github, 
+# Settings -> Environments -> New environment (top right), the format below uses 'secrets' so call it that.  
+# Within that environment create two keys, SHEETS_API_KEY for the google console key, and SHEETS_ID for the sheets URL id. 
+
+# URL format api call is https://sheets.googleapis.com/v4/spreadsheets/{spreadsheetId}/values/{sheetName}?alt=json&key={theKey}
+# spreadsheetId is the URL of the sheet, NOT the 'publish to the web' url (this appears not to work anymore). 
+
 
 name: googlesheet-actions
 
@@ -12,9 +22,10 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - id: googlesheet_actions
-          uses: enstars/googlesheet-actions@master
+          uses: sjgknight/googlesheet-actions@main
           with:
             sheet-id: ${{ secrets.SHEET_ID }}
+            sheets-api-key: ${{ secrets.SHEETS_API_KEY }}
         - id: echo
           uses: actions/github-script@v2
           with:

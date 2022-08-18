@@ -12,7 +12,7 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - id: googlesheet_actions
-          uses: enstars/googlesheet-actions
+          uses: enstars/googlesheet-actions@master
           with:
             sheet-id: ${{ secrets.SHEET_ID }}
         - id: echo

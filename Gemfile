@@ -7,9 +7,12 @@ source "https://rubygems.org"
 # The lines below are added as a work around for Ruby 3.
 # If you are doing serious customization and need to keep in sync with github-pages versions,
 # Please use Ruby 2.7x,
-# uncomment gem "github-pages" 
+# uncomment gem "github-pages"
 # and delete the lines below.
 
 gem "jekyll"
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-feed"
+

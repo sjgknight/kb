@@ -10,9 +10,14 @@ source "https://rubygems.org"
 # uncomment gem "github-pages"
 # and delete the lines below.
 
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
 gem "jekyll"
 
 gem "webrick", "~> 1.7"
 
 gem "jekyll-feed"
 
+gem "nokogiri"
+
+gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyll-last-modified-at", branch: "add-support-for-files-in-git-submodules"

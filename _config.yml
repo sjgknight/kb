@@ -16,6 +16,38 @@ baseurl: /DSI_collection_sheets
 # location of code, the full url to your github repository
 source-code: https://github.com/sjgknight/DSI_collection_sheets
 
+
+include:             ['pages','_notes','_data']
+
+# Set to `true` to open non-internal links in new tabs, or
+# set to `false` to open non-internal links in current tab.
+open_external_links_in_new_tab: true
+
+permalink:           pretty
+relative_permalinks: false
+
+#collections_dir: notes
+
+collections:
+  notes:
+    output: true
+    permalink: /:slug
+  # data:
+  #   output: true
+  #   permalink: /:slug
+
+
+# If in any directory, use default layout. If in the notes path and any subdirectory of notes, use the note layout.
+defaults:
+  - scope:
+      path: "**/*"
+    values:
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"
+
 ##########
 # SITE SETTINGS
 #
@@ -74,10 +106,12 @@ noindex: true
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE]
+exclude: [docs/, Rakefile, README.md, LICENSE, _includes/notes_graph.json]
 # compress CSS output
 sass:
   style: compressed
 
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+

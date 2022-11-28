@@ -1,18 +1,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>{{ page.title | escape }} | {{ site.title | escape }}</title>
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+
 <!--
-  _____     ____        __  _           ___       _ __   __       
+  _____     ____        __  _           ___       _ __   __
  / ___/__  / / /__ ____/ /_(_)__  ___  / _ )__ __(_) /__/ /__ ____
 / /__/ _ \/ / / -_) __/ __/ / _ \/ _ \/ _  / // / / / _  / -_) __/
-\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/   
-   
+\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/
+
     built with CollectionBuilder-GH
-    https://github.com/CollectionBuilder/collectionbuilder-gh 
+    https://github.com/CollectionBuilder/collectionbuilder-gh
 -->
 <meta name="generator" content="collectionbuilder-gh" />
 <meta http-equiv="Content-Language" content="en-us" >
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
 
 <!-- load style sheets -->
 {% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}{% endif %}
@@ -28,9 +30,48 @@
 <!-- load custom css last to allow overrides -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" type="text/css">
 
-{% comment %} 
+<!-- add digital garden conditions -->
+  {% if page.excerpt %}
+  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
+  {% else %}
+  <meta property="og:description" content="{{ site.title | strip_html | strip_newlines | truncate: 160 }}"/>
+  {% endif %}
+
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="article">
+  {% else %}
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  {% endif %}
+
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.url }}/">
+  {% endif %}
+
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  {% endif %}
+
+  <title>
+    {% if page.id == "home" %}
+      {{ site.title | escape }}
+    {% else %}
+      {{ page.title }} &mdash; {{ site.title | escape }}
+    {% endif %}
+  </title>
+
+
+<!-- <title>{{ page.title | escape }} | {{ site.title | escape }}</title> -->
+
+
+<!-- back to collectionbuilder -->
+{% comment %}
     Meta tags and analytics are adding during production build ONLY.
-    Production build environment is automatically used on gh-pages. 
+    Production build environment is automatically used on gh-pages.
 {% endcomment %}
 {%- if jekyll.environment == "production" -%}
 {% if site.noindex == true or page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}

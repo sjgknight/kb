@@ -48,4 +48,4 @@ $theme-colors: map-merge(
 @import "theme-colors";
 {% endif %}
 
-@import "base", "pages", "custom";
+@import "base", "pages", "custom", "garden";

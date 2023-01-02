@@ -17,21 +17,30 @@ baseurl: /DSI_collection_sheets
 source-code: https://github.com/sjgknight/DSI_collection_sheets
 
 
-include:             ['pages','_notes','_data']
+include:             ['pages','notes','_data']
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
 open_external_links_in_new_tab: true
 
-permalink:           pretty
+permalink: pretty
 relative_permalinks: false
 
-#collections_dir: notes
 
+#the idea of doing this was to organise these...they're all rendering at top level which is fine, but isn't what I thought it would do
 collections:
-  notes:
+  scenarios:
     output: true
-    permalink: /:slug
+  concepts:
+    output: true
+  resourcesIn:
+    output: true
+  stakeholders:
+    output: true
+  egs:
+    output: true
+collections_dir: notes
+
   # data:
   #   output: true
   #   permalink: /:slug
@@ -44,7 +53,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "_notes/**/*.md"
+      path: "notes/**/*.md"
     values:
       layout: "note"
 
@@ -71,6 +80,17 @@ author: sjgknight
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/master/psychiana_cbdemo_gh.csv"
 # metadata-csv: /assets/demo-metadata.csv
 metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTS-x_CSAH7EtvK6EHRudiStIf2pObqFA1RR_yGHE0hd80LGPslzYo70F0cuVu2YEdyW-AsC-Ix_4m5/pub?gid=0&single=true&output=csv
+
+#########
+# DATA IMPORT SETTINGS using jekyll_get_json
+# see https://github.com/brockfanning/jekyll-get-json
+jekyll_get_json:
+  - data: foo
+    json: 'https://sheets.googleapis.com/v4/spreadsheets/1A4_w04lc1xpIIrfTzFfvwJVzZHpGehnqjKWGqTl4Ejc/values/Sheet1?alt=json&key=AIzaSyBWSM5oWmankIRjL9iN3cSTnVQ_D0I5pEA'
+
+#https://sheets.googleapis.com/v4/spreadsheets/1A4_w04lc1xpIIrfTzFfvwJVzZHpGehnqjKWGqTl4Ejc/values/0?alt=json&key=${SHEETS_API_KEY}
+#https://api.zotero.org/groups/4120530/collections/YP9YI9B7/items?itemType=note&limit=100&start=1&format=json
+
 
 ##########
 # Site/Organization Branding
@@ -114,4 +134,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-get-json
+#  - jekyll-datapage-generator
+# see https://github.com/avillafiorita/jekyll-datapage_gen
 

@@ -6,9 +6,11 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
     all_notes = site.collections['notes'].docs
     all_pages = site.pages
+    all_posts = site.posts.docs
+    #all_data = cb_items
     #all_data = site.cb_items.objectid
 
-    all_docs = all_notes + all_pages #+ all_data
+    all_docs = all_notes + all_pages + all_posts #+ all_data
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
 

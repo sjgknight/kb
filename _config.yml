@@ -86,9 +86,8 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTS-x_CSAH7EtvK6EH
 # see https://github.com/brockfanning/jekyll-get-json
 jekyll_get_json:
   - data: foo
-    json: 'https://sheets.googleapis.com/v4/spreadsheets/1A4_w04lc1xpIIrfTzFfvwJVzZHpGehnqjKWGqTl4Ejc/values/Sheet1?alt=json&key=AIzaSyBWSM5oWmankIRjL9iN3cSTnVQ_D0I5pEA'
+    json: hhttps://sheets.googleapis.com/v4/spreadsheets/1A4_w04lc1xpIIrfTzFfvwJVzZHpGehnqjKWGqTl4Ejc/values/0?alt=json&key=${SHEETS_API_KEY}
 
-#https://sheets.googleapis.com/v4/spreadsheets/1A4_w04lc1xpIIrfTzFfvwJVzZHpGehnqjKWGqTl4Ejc/values/0?alt=json&key=${SHEETS_API_KEY}
 #https://api.zotero.org/groups/4120530/collections/YP9YI9B7/items?itemType=note&limit=100&start=1&format=json
 
 

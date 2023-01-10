@@ -14,8 +14,7 @@ url: https://sjgknight.github.io
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /DSI_collection_sheets
 # location of code, the full url to your github repository
-source-code: https://github.com/sjgknight/DSI_collection_sheets
-
+source-code: https://github.com/sjgknight/kb
 
 include:             ['pages','notes','_data']
 
@@ -25,7 +24,6 @@ open_external_links_in_new_tab: true
 
 permalink: pretty
 relative_permalinks: false
-
 
 #the idea of doing this was to organise these...they're all rendering at top level which is fine, but isn't what I thought it would do
 collections:
@@ -84,9 +82,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTS-x_CSAH7EtvK6EH
 #########
 # DATA IMPORT SETTINGS using jekyll_get_json
 # see https://github.com/brockfanning/jekyll-get-json
+# This allows you to get the JSON as a data file
 jekyll_get_json:
   - data: foo
-    json: hhttps://sheets.googleapis.com/v4/spreadsheets/1A4_w04lc1xpIIrfTzFfvwJVzZHpGehnqjKWGqTl4Ejc/values/0?alt=json&key=${SHEETS_API_KEY}
+    json: https://sheets.googleapis.com/v4/spreadsheets/1A4_w04lc1xpIIrfTzFfvwJVzZHpGehnqjKWGqTl4Ejc/values/0?alt=json&key=${SHEETS_API_KEY}
 
 #https://api.zotero.org/groups/4120530/collections/YP9YI9B7/items?itemType=note&limit=100&start=1&format=json
 
@@ -95,7 +94,7 @@ jekyll_get_json:
 # Site/Organization Branding
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Experimental DSI KB"
+organization-name: "Experimental KB"
 organization-link:
 organization-logo-banner:
 organization-logo-nav: https://creds.netlify.app/media/logo_hub5e844eb53de03c7940cf3922b4a615a_1460_0x70_resize_lanczos_2.png

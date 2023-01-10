@@ -1,5 +1,8 @@
 # frozen_string_literal: true
+#you can start a multi line comment using the begin and end tokens below
+#to use, remove the single line comment hash
 
+=begin
 EMPTY_FRONT_MATTER = <<~JEKYLL
   ---
   ---
@@ -16,3 +19,6 @@ Jekyll::Hooks.register :site, :after_init do |site|
     end
   end
 end
+
+=end
+

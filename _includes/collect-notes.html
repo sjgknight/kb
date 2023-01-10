@@ -1,5 +1,18 @@
+<!-- a test to get a list from a collection (concepts here) -->
+<!-- {{ site.collections | where: "label", "myCollection" | first }} -->
+<!--
 {% for post in site.concepts %}
 - {{ post.title }}
+{% endfor %}-->
+
+{% for collection in site.collections %}
+  <h2>Items from {{ collection.label }}</h2>
+  <ul>
+    {% for item in site[collection.label] %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}
+
 
 <script type="text/javascript" language="javascript" src="{{ '/assets/lib/datatables/datatables.min.js' | relative_url }}"></script>

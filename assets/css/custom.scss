@@ -1,9 +1,9 @@
----
 # base CSS for collectionbuilder
 # includes some theming elements
 # pulled in from "theme.yml" and "config-theme-colors.csv"
----
-@charset "utf-8";
+
+
+@charset "utf-8"
 
 // base variables
 $base-font-family: {{ site.data.theme.base-font-family | default: '""' }};

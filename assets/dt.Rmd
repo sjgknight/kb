@@ -1,0 +1,14 @@
+---
+title: data table test
+---
+
+```{r setup}
+pacman::p_load(data.table, dplyr, htmlwidgets, crosstalk)
+
+```
+
+```{r data}
+
+data.table::
+
+```

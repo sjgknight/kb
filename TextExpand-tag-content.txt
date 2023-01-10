@@ -1,0 +1,2890 @@
+To run (if button doesn't work), place cursor on query, and ctrl+p, 'text expand all'
+
+```run-r
+rmarkdown::render(paste0(@vault,"/TextExpand-tag-content.md", output_file=paste0(@note,".pdf")))
+
+```
+
+```expander
+tag:#visual-design
+
+^ Start-results 
+
+	<% it.files.forEach(file => { %>
+	   - <%= file.basename %>
+	   - <%= file.content %>
+	<% }) %>
+
+> end-results
+```
+ Start-results 
+		   - 50072-5Y39VN29	   - ---
+itemNumber: '50072'
+itemKey: 5Y39VN29
+tags: [visual-design]
+
+---
+
+# Annotations  
+(21/11/2022, 10:19:45 am)
+
+![image](attachments/XQUYTB92.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=2&annotation=CMRVBLZR))  
+([Wang et al., 2019, p. 209](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/SK2JJA5Y.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=2&annotation=D6HA3ECK))  
+([Wang et al., 2019, p. 209](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/F5FRQ42F.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=3&annotation=NZHCZNZ6))  
+([Wang et al., 2019, p. 210](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/K2SDCKR6.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=4&annotation=SV7WQCFE))  
+([Wang et al., 2019, p. 211](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/XUF5DTGC.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=4&annotation=VZSCZF78))  
+([Wang et al., 2019, p. 211](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/S242E9Y9.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=5&annotation=HKAW7CKL))  
+([Wang et al., 2019, p. 212](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/LBQ6XEKZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=5&annotation=P8UL5NV9))  
+([Wang et al., 2019, p. 212](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/DX2QE5HS.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=5&annotation=L7XY44E6))  
+([Wang et al., 2019, p. 212](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/T2WP8WE6.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=6&annotation=WQJKVT5D))  
+([Wang et al., 2019, p. 213](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/X3S5CDR8.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=6&annotation=T4MWZT23))  
+([Wang et al., 2019, p. 213](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/DWX977DX.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=6&annotation=CA8YEV2A))  
+([Wang et al., 2019, p. 213](zotero://select/groups/4789270/items/3DMMHFYU))
+
+![image](attachments/BTTARRI4.png) ([pdf](zotero://open-pdf/groups/4789270/items/KPZ7644D?page=7&annotation=6KEYFAAR))  
+([Wang et al., 2019, p. 214](zotero://select/groups/4789270/items/3DMMHFYU))
+		   - 50100-YZJ2CLUJ	   - ---
+itemNumber: '50100'
+itemKey: YZJ2CLUJ
+tags: [visual-design]
+
+---
+
+![image](attachments/CPS969K2.png) ([pdf](zotero://open-pdf/groups/4789270/items/C86A4IKB?page=4&annotation=8ZQUDMGV))  
+([Zhang et al., 2021, p. 219](zotero://select/groups/4789270/items/KNDN6TYM))
+
+![image](attachments/GXY2387C.png) ([pdf](zotero://open-pdf/groups/4789270/items/C86A4IKB?page=4&annotation=9EAXYDJY))  
+([Zhang et al., 2021, p. 219](zotero://select/groups/4789270/items/KNDN6TYM))
+
+![image](attachments/2NEJWTSI.png) ([pdf](zotero://open-pdf/groups/4789270/items/C86A4IKB?page=5&annotation=JAH2NXSZ))  
+([Zhang et al., 2021, p. 220](zotero://select/groups/4789270/items/KNDN6TYM))
+
+![image](attachments/N8MW3ST9.png) ([pdf](zotero://open-pdf/groups/4789270/items/C86A4IKB?page=11&annotation=7HK6VWX4))  
+([Zhang et al., 2021, p. 226](zotero://select/groups/4789270/items/KNDN6TYM))
+
+![image](attachments/PLMHF6JG.png) ([pdf](zotero://open-pdf/groups/4789270/items/C86A4IKB?page=11&annotation=5YRUAPLW))  
+([Zhang et al., 2021, p. 226](zotero://select/groups/4789270/items/KNDN6TYM))
+		   - 50122-GCV25Z66	   - ---
+itemNumber: '50122'
+itemKey: GCV25Z66
+tags: [visual-design]
+
+---
+
+# Annotations  
+(21/11/2022, 9:56:59 am)
+
+![image](attachments/HM3Z533B.png) ([pdf](zotero://open-pdf/groups/4789270/items/NAVHRWDN?page=4&annotation=4KUIMMDF))  
+([Sheng et al., 2018, p. 149](zotero://select/groups/4789270/items/EJAWY4Y3))
+
+![image](attachments/CS5D3G92.png) ([pdf](zotero://open-pdf/groups/4789270/items/NAVHRWDN?page=5&annotation=YS9WA95N))  
+([Sheng et al., 2018, p. 150](zotero://select/groups/4789270/items/EJAWY4Y3))
+
+![image](attachments/NTCZF2Y2.png) ([pdf](zotero://open-pdf/groups/4789270/items/NAVHRWDN?page=6&annotation=FUK8ULTA))  
+([Sheng et al., 2018, p. 151](zotero://select/groups/4789270/items/EJAWY4Y3))
+
+![image](attachments/WWF4FAFB.png) ([pdf](zotero://open-pdf/groups/4789270/items/NAVHRWDN?page=8&annotation=95327YD5))  
+([Sheng et al., 2018, p. 153](zotero://select/groups/4789270/items/EJAWY4Y3))
+		   - 51075-QILR2VKD	   - ---
+itemNumber: '51075'
+itemKey: QILR2VKD
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 9:26:51 am)
+
+![image](attachments/QM4XUVZR.png) ([pdf](zotero://open-pdf/groups/4789270/items/48F53MMZ?page=2&annotation=AE34XL2U))  
+([Liu et al., 2022, p. 1382](zotero://select/groups/4789270/items/8C9BK63V))
+
+![image](attachments/9BYDM7TE.png) ([pdf](zotero://open-pdf/groups/4789270/items/48F53MMZ?page=3&annotation=CYW2XITD))  
+([Liu et al., 2022, p. 1383](zotero://select/groups/4789270/items/8C9BK63V))
+
+![image](attachments/H2KZP5EY.png) ([pdf](zotero://open-pdf/groups/4789270/items/48F53MMZ?page=3&annotation=TSB2SRJV))  
+([Liu et al., 2022, p. 1383](zotero://select/groups/4789270/items/8C9BK63V))
+
+![image](attachments/IWMR3ZKN.png) ([pdf](zotero://open-pdf/groups/4789270/items/48F53MMZ?page=4&annotation=68J9BINS))  
+([Liu et al., 2022, p. 1384](zotero://select/groups/4789270/items/8C9BK63V))
+
+![image](attachments/GAV9K983.png) ([pdf](zotero://open-pdf/groups/4789270/items/48F53MMZ?page=5&annotation=Q4NZM8YB))  
+([Liu et al., 2022, p. 1385](zotero://select/groups/4789270/items/8C9BK63V))
+
+![image](attachments/V8F24QZM.png) ([pdf](zotero://open-pdf/groups/4789270/items/48F53MMZ?page=5&annotation=2KUQ6HJR))  
+([Liu et al., 2022, p. 1385](zotero://select/groups/4789270/items/8C9BK63V))
+
+![image](attachments/ZRAZVIDV.png) ([pdf](zotero://open-pdf/groups/4789270/items/48F53MMZ?page=6&annotation=DG9JEC2K))  
+([Liu et al., 2022, p. 1386](zotero://select/groups/4789270/items/8C9BK63V))
+		   - 51092-MKRPNS3Y	   - ---
+itemNumber: '51092'
+itemKey: MKRPNS3Y
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 9:21:34 am)
+
+![image](attachments/XNESERA8.png) ([pdf](zotero://open-pdf/groups/4789270/items/FCTPLQ6D?page=7&annotation=SIQV8RRQ))  
+([Nagler, 2014, p. 29](zotero://select/groups/4789270/items/4Q2E937C))
+		   - 51104-U9ESL5RY	   - ---
+itemNumber: '51104'
+itemKey: U9ESL5RY
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 9:17:40 am)
+
+![image](attachments/FHW7UJDZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/8GLNN9HV?page=8&annotation=S7WJQLED))  
+([Ostapuk et al., 2019, p. 8](zotero://select/groups/4789270/items/DAPEIPM2))
+
+![image](attachments/MGIN7QZK.png) ([pdf](zotero://open-pdf/groups/4789270/items/8GLNN9HV?page=8&annotation=RWWBBMT3))  
+([Ostapuk et al., 2019, p. 8](zotero://select/groups/4789270/items/DAPEIPM2))
+
+![image](attachments/9F869ECM.png) ([pdf](zotero://open-pdf/groups/4789270/items/8GLNN9HV?page=10&annotation=IZ7ATFM3))  
+([Ostapuk et al., 2019, p. 10](zotero://select/groups/4789270/items/DAPEIPM2))
+		   - 51121-ICMKZESR	   - ---
+itemNumber: '51121'
+itemKey: ICMKZESR
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 9:14:19 am)
+
+![image](attachments/DD6VTRQC.png) ([pdf](zotero://open-pdf/groups/4789270/items/44YGS86P?page=1&annotation=5S7W9JBD))  
+([Sekuboyina et al., 2021, p. 1](zotero://select/groups/4789270/items/M3ID25CS))
+
+![image](attachments/LGRZVGIX.png) ([pdf](zotero://open-pdf/groups/4789270/items/44YGS86P?page=2&annotation=M9YLPKTV))  
+([Sekuboyina et al., 2021, p. 2](zotero://select/groups/4789270/items/M3ID25CS))
+
+![image](attachments/62C92VUQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/44YGS86P?page=4&annotation=WJQUW9GB))  
+([Sekuboyina et al., 2021, p. 4](zotero://select/groups/4789270/items/M3ID25CS))
+		   - 51132-58QX9PKJ	   - ---
+itemNumber: '51132'
+itemKey: 58QX9PKJ
+tags: [visual-design]
+
+---
+
+# Annotations  
+(21/11/2022, 4:48:46 pm)
+
+![image](attachments/4VDRMDQX.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=3&annotation=J7DX2WFF))  
+([Wang et al., 2019, p. 3](zotero://select/groups/4789270/items/MGSUJY9X))
+
+![image](attachments/R5IR6GGB.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=9&annotation=WPBAUSYH))  
+([Wang et al., 2019, p. 9](zotero://select/groups/4789270/items/MGSUJY9X))
+
+![image](attachments/7BP86H6H.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=9&annotation=62Y4XTJU))  
+([Wang et al., 2019, p. 9](zotero://select/groups/4789270/items/MGSUJY9X))
+
+![image](attachments/H32QCHAJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=9&annotation=CE4EIQBH))  
+([Wang et al., 2019, p. 9](zotero://select/groups/4789270/items/MGSUJY9X))
+
+![image](attachments/PDQE9UCB.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=10&annotation=G6RAB9YJ))  
+([Wang et al., 2019, p. 10](zotero://select/groups/4789270/items/MGSUJY9X))
+
+![image](attachments/ARC2CX89.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=10&annotation=MQYAUBUU))  
+([Wang et al., 2019, p. 10](zotero://select/groups/4789270/items/MGSUJY9X))
+
+![image](attachments/GWTPWDDJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=11&annotation=ASMVP8E3))  
+([Wang et al., 2019, p. 11](zotero://select/groups/4789270/items/MGSUJY9X))
+
+![image](attachments/X2RETDIX.png) ([pdf](zotero://open-pdf/groups/4789270/items/ACNLCXVG?page=11&annotation=VJMP6XZ7))  
+([Wang et al., 2019, p. 11](zotero://select/groups/4789270/items/MGSUJY9X))
+		   - 51164-MXZPTL5T	   - ---
+itemNumber: '51164'
+itemKey: MXZPTL5T
+tags: [visual-design]
+
+---
+
+# Annotations  
+(21/11/2022, 3:52:46 pm)
+
+![image](attachments/XMN733TA.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=3&annotation=TIJX92NG))  
+([Cao et al., 2019, p. 3](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/DZ2WKQHC.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=6&annotation=NGBF4LHJ))  
+([Cao et al., 2019, p. 6](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/5J6UVQW9.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=6&annotation=H8X6UCNA))  
+([Cao et al., 2019, p. 6](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/78UJ8S5I.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=8&annotation=2L6LX3YL))  
+([Cao et al., 2019, p. 8](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/MS436W6E.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=9&annotation=8BERRCPW))  
+([Cao et al., 2019, p. 9](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/G5YF86ZQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=10&annotation=6ET2HYEU))  
+([Cao et al., 2019, p. 10](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/M59DNYQE.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=10&annotation=KTCYL9Q8))  
+([Cao et al., 2019, p. 10](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/2JRY8JII.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=11&annotation=I496EXRJ))  
+([Cao et al., 2019, p. 11](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/R62L73JN.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=12&annotation=LSMJM3NY))  
+([Cao et al., 2019, p. 12](zotero://select/groups/4789270/items/DXDDK2GG))
+
+![image](attachments/M8EDGM3J.png) ([pdf](zotero://open-pdf/groups/4789270/items/L6F8ZKGF?page=12&annotation=9L537GTU))  
+([Cao et al., 2019, p. 12](zotero://select/groups/4789270/items/DXDDK2GG))
+		   - 51189-9LDWLZPH	   - ---
+itemNumber: '51189'
+itemKey: 9LDWLZPH
+tags: [visual-design]
+
+---
+
+# Annotations  
+(21/11/2022, 3:47:30 pm)
+
+![image](attachments/8LG6RHIZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/CLAGZKMF?page=3&annotation=XW9JCYY4))  
+([Sosa et al., 2020, p. 465](zotero://select/groups/4789270/items/ALVIDV5Z))
+
+![image](attachments/TCXKGX94.png) ([pdf](zotero://open-pdf/groups/4789270/items/CLAGZKMF?page=5&annotation=55FD7ZZX))  
+([Sosa et al., 2020, p. 467](zotero://select/groups/4789270/items/ALVIDV5Z))
+
+![image](attachments/3I6Q4KG4.png) ([pdf](zotero://open-pdf/groups/4789270/items/CLAGZKMF?page=5&annotation=TQZD23VV))  
+([Sosa et al., 2020, p. 467](zotero://select/groups/4789270/items/ALVIDV5Z))
+
+![image](attachments/BI6RCQV9.png) ([pdf](zotero://open-pdf/groups/4789270/items/CLAGZKMF?page=7&annotation=L6HEVMR4))  
+([Sosa et al., 2020, p. 469](zotero://select/groups/4789270/items/ALVIDV5Z))
+
+![image](attachments/85EEKFT3.png) ([pdf](zotero://open-pdf/groups/4789270/items/CLAGZKMF?page=8&annotation=SBKMHKSU))  
+([Sosa et al., 2020, p. 470](zotero://select/groups/4789270/items/ALVIDV5Z))
+
+![image](attachments/KZSXYZ7L.png) ([pdf](zotero://open-pdf/groups/4789270/items/CLAGZKMF?page=10&annotation=K2XZICGV))  
+([Sosa et al., 2020, p. 472](zotero://select/groups/4789270/items/ALVIDV5Z))
+		   - 51228-UWEVDDCY	   - ---
+itemNumber: '51228'
+itemKey: UWEVDDCY
+tags: [visual-design]
+
+---
+
+# Annotations  
+(21/11/2022, 4:43:58 pm)
+
+![image](attachments/J6LJ4CHH.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=2&annotation=4Y6GQ5WR))  
+
+![image](attachments/HU6I2AZ8.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=4&annotation=NMUBP742))  
+([Zhou et al., 2021, p. 4](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/XHE7PNQB.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=5&annotation=HJK6EZTM))  
+([Zhou et al., 2021, p. 5](zotero://select/groups/4789270/items/XC4594BX))  
+
+![image](attachments/RJHEHCIM.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=6&annotation=A78ZRQY4))  
+([Zhou et al., 2021, p. 6](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/LXDJ8AA8.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=6&annotation=EEXBFZCV))  
+([Zhou et al., 2021, p. 6](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/M2WCHMBQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=7&annotation=VAIEPVHN))  
+([Zhou et al., 2021, p. 7](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/KEGME8Q8.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=8&annotation=7FF446AW))  
+([Zhou et al., 2021, p. 8](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/W863HCJM.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=10&annotation=9ELRXLV8))  
+([Zhou et al., 2021, p. 10](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/WXMLFY3G.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=10&annotation=PEKMBNX5))  
+([Zhou et al., 2021, p. 10](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/T6VWJXDK.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=10&annotation=6GQYD7RX))  
+([Zhou et al., 2021, p. 10](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/ITJSECUR.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=11&annotation=GG35MQZH))  
+([Zhou et al., 2021, p. 11](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/EJ2RMZPC.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=11&annotation=PQ68VNKU))  
+([Zhou et al., 2021, p. 11](zotero://select/groups/4789270/items/XC4594BX))
+
+![image](attachments/XQ9DCSAT.png) ([pdf](zotero://open-pdf/groups/4789270/items/UU69RMLS?page=13&annotation=VS25CCP9))  
+([Zhou et al., 2021, p. 13](zotero://select/groups/4789270/items/XC4594BX))
+		   - 51269-6KJRBMH5	   - ---
+itemNumber: '51269'
+itemKey: 6KJRBMH5
+tags: [visual-design]
+
+---
+
+# Annotations  
+(21/11/2022, 4:08:51 pm)
+
+![image](attachments/TMWKLL22.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=11&annotation=TBRMNKWK))  
+([Hong Lan et al., 2020, p. 164909](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/G45LG57L.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=13&annotation=BCG79JJD))  
+([Hong Lan et al., 2020, p. 164911](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/ZIZ5QGFT.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=13&annotation=YSGHFI7W))  
+([Hong Lan et al., 2020, p. 164911](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/FLN39SCS.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=13&annotation=JNVA4PS4))  
+([Hong Lan et al., 2020, p. 164911](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/HJMKW8R5.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=13&annotation=DWSSVBEC))  
+([Hong Lan et al., 2020, p. 164911](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/E4JBY2K2.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=15&annotation=UVEUU5IH))  
+([Hong Lan et al., 2020, p. 164913](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/NIHQ6DWJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=16&annotation=9ZPVVULN))  
+([Hong Lan et al., 2020, p. 164914](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/AKPGRL9D.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=16&annotation=3PP9JD6U))  
+([Hong Lan et al., 2020, p. 164914](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/QJ7UGVTQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=16&annotation=6NK9PP8G))  
+([Hong Lan et al., 2020, p. 164914](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/JBII3Y39.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=17&annotation=IZHYH2MX))  
+([Hong Lan et al., 2020, p. 164915](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/C5M42GP4.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=17&annotation=8IMHQSYG))  
+([Hong Lan et al., 2020, p. 164915](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/76R58CTN.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=17&annotation=8ZAIL9MY))  
+([Hong Lan et al., 2020, p. 164915](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/YDFJJCPP.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=17&annotation=PV423FCJ))  
+([Hong Lan et al., 2020, p. 164915](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/H8HMCUCW.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=18&annotation=EXF86VWC))  
+([Hong Lan et al., 2020, p. 164916](zotero://select/groups/4789270/items/TXXACMZZ))
+
+![image](attachments/WX2JYQIF.png) ([pdf](zotero://open-pdf/groups/4789270/items/7EYH75ZM?page=19&annotation=8S5B2QFA))  
+([Hong Lan et al., 2020, p. 164917](zotero://select/groups/4789270/items/TXXACMZZ))
+		   - 51325-RNE3IWXL	   - ---
+itemNumber: '51325'
+itemKey: RNE3IWXL
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 11:27:05 am)
+
+![image](attachments/W3XEALD3.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=2&annotation=UQB2PT3A))  
+([Malik et al., 2020, p. 2](zotero://select/groups/4789270/items/3SCXCR55))
+
+![image](attachments/MT5LGWT7.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=5&annotation=VE4EF5GN))  
+([Malik et al., 2020, p. 5](zotero://select/groups/4789270/items/3SCXCR55))
+
+![image](attachments/T96WPDWT.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=6&annotation=B3TU8W9T))  
+([Malik et al., 2020, p. 6](zotero://select/groups/4789270/items/3SCXCR55))
+
+![image](attachments/FL4ZEWIY.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=6&annotation=Q5NUR54W))  
+([Malik et al., 2020, p. 6](zotero://select/groups/4789270/items/3SCXCR55))
+
+![image](attachments/J49CEYIS.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=9&annotation=WXWCVQ5P))  
+([Malik et al., 2020, p. 9](zotero://select/groups/4789270/items/3SCXCR55))
+
+![image](attachments/89YJVAIW.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=10&annotation=YTNDVHJI))  
+([Malik et al., 2020, p. 10](zotero://select/groups/4789270/items/3SCXCR55))
+
+![image](attachments/MF8GWEZ3.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=11&annotation=AJUJ2DZD))  
+([Malik et al., 2020, p. 11](zotero://select/groups/4789270/items/3SCXCR55))
+
+![image](attachments/U8E58PLG.png) ([pdf](zotero://open-pdf/groups/4789270/items/L5SCPBEH?page=12&annotation=6YRCVA8L))  
+([Malik et al., 2020, p. 12](zotero://select/groups/4789270/items/3SCXCR55))
+		   - 51343-Z24C44DP	   - ---
+itemNumber: '51343'
+itemKey: Z24C44DP
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 11:24:07 am)
+
+![image](attachments/LXTDLANW.png) ([pdf](zotero://open-pdf/groups/4789270/items/D8B9VRDW?page=4&annotation=RFL7WLAA))  
+([Yang et al., 2022, p. 682](zotero://select/groups/4789270/items/4QLQ6PJM))
+		   - 51349-ZU852XK8	   - ---
+itemNumber: '51349'
+itemKey: ZU852XK8
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 10:00:30 am)
+
+![image](attachments/PI89RL9T.png) ([pdf](zotero://open-pdf/groups/4789270/items/JE2G39SU?page=1&annotation=SLQQ94A8))  
+([Fabbri et al., 2022, p. 1](zotero://select/groups/4789270/items/Z5U3LL98))
+
+![image](attachments/JG3NLP2M.png) ([pdf](zotero://open-pdf/groups/4789270/items/JE2G39SU?page=4&annotation=GNKZRX48))  
+([Fabbri et al., 2022, p. 4](zotero://select/groups/4789270/items/Z5U3LL98))
+
+![image](attachments/5N9L28Y7.png) ([pdf](zotero://open-pdf/groups/4789270/items/JE2G39SU?page=6&annotation=SEWDJHW7))  
+([Fabbri et al., 2022, p. 6](zotero://select/groups/4789270/items/Z5U3LL98))
+
+![image](attachments/7F9KY2BL.png) ([pdf](zotero://open-pdf/groups/4789270/items/JE2G39SU?page=12&annotation=HE27EXL3))  
+([Fabbri et al., 2022, p. 12](zotero://select/groups/4789270/items/Z5U3LL98))
+
+![image](attachments/ZYQJ3J8Z.png) ([pdf](zotero://open-pdf/groups/4789270/items/JE2G39SU?page=13&annotation=HDPW6NVH))  
+([Fabbri et al., 2022, p. 13](zotero://select/groups/4789270/items/Z5U3LL98))
+		   - 51358-PXAB4E2N	   - ---
+itemNumber: '51358'
+itemKey: PXAB4E2N
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 9:54:38 am)
+
+![image](attachments/ADVM7IBX.png) ([pdf](zotero://open-pdf/groups/4789270/items/FCSGWJ93?page=2&annotation=6NWH4CJ2))  
+([Grangel-Gonzalez and Vidal, 2021, p. 2](zotero://select/groups/4789270/items/UXZEUE2Y))
+
+![image](attachments/GNU8L55Z.png) ([pdf](zotero://open-pdf/groups/4789270/items/FCSGWJ93?page=6&annotation=TW5CU9CS))  
+([Grangel-Gonzalez and Vidal, 2021, p. 6](zotero://select/groups/4789270/items/UXZEUE2Y))
+
+![image](attachments/38BBXJTM.png) ([pdf](zotero://open-pdf/groups/4789270/items/FCSGWJ93?page=9&annotation=C7J8DT2D))  
+([Grangel-Gonzalez and Vidal, 2021, p. 9](zotero://select/groups/4789270/items/UXZEUE2Y))
+
+![image](attachments/YEJ85PYT.png) ([pdf](zotero://open-pdf/groups/4789270/items/FCSGWJ93?page=15&annotation=N2XMWMNZ))  
+([Grangel-Gonzalez and Vidal, 2021, p. 15](zotero://select/groups/4789270/items/UXZEUE2Y))
+		   - 51391-WE6BEVQG	   - ---
+itemNumber: '51391'
+itemKey: WE6BEVQG
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 9:34:48 am)
+
+![image](attachments/D65VSF3Q.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=2&annotation=M5LDXWY8))  
+([Ren et al., 2021, p. 2](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/8ISZXJ5U.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=3&annotation=IWX9RK9C))  
+([Ren et al., 2021, p. 3](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/HWPMGCM3.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=4&annotation=P9IMECPZ))  
+([Ren et al., 2021, p. 4](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/KPL5THGR.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=4&annotation=WICXTZKY))  
+([Ren et al., 2021, p. 4](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/BR2TZHHU.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=7&annotation=GP98DIGL))  
+([Ren et al., 2021, p. 7](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/8BBS5BJG.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=8&annotation=R3INQITN))  
+([Ren et al., 2021, p. 8](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/Z29Y5RQM.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=10&annotation=PQSN47R5))  
+([Ren et al., 2021, p. 10](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/2SZJCRDS.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=11&annotation=FXEW3BDM))  
+([Ren et al., 2021, p. 11](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/6R93AV6Z.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=11&annotation=YLPILWBV))  
+([Ren et al., 2021, p. 11](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/3C9ANVQV.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=13&annotation=LP7B36CJ))  
+([Ren et al., 2021, p. 13](zotero://select/groups/4789270/items/7WHUHVNN))
+
+![image](attachments/XVKNY5XD.png) ([pdf](zotero://open-pdf/groups/4789270/items/38ZHL7Y7?page=14&annotation=SMEYJKMG))  
+([Ren et al., 2021, p. 14](zotero://select/groups/4789270/items/7WHUHVNN))
+		   - 51395-QFBG4PY7	   - ---
+itemNumber: '51395'
+itemKey: QFBG4PY7
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 12:09:46 pm)
+
+![image](attachments/KFDKDX3K.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=2&annotation=AIAK5EJ3))  
+([Huang et al., 2021, p. 2](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/HARCSLT6.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=2&annotation=J9GTKAS2))  
+([Huang et al., 2021, p. 2](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/HGPIQ5UQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=4&annotation=I69CG794))  
+([Huang et al., 2021, p. 4](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/7KSCIGPY.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=5&annotation=6GT69YMI))  
+([Huang et al., 2021, p. 5](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/3HVW7DXW.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=6&annotation=T8NJH7SQ))  
+([Huang et al., 2021, p. 6](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/ITSHE3L8.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=7&annotation=4MG5S5AJ))  
+([Huang et al., 2021, p. 7](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/UHHT8J2S.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=8&annotation=ACP6V7DZ))  
+([Huang et al., 2021, p. 8](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/TRQHCH3M.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=8&annotation=UBY835UY))  
+([Huang et al., 2021, p. 8](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/G6PCH5CU.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=9&annotation=CN32A97U))  
+([Huang et al., 2021, p. 9](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/5NCDCXQP.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=11&annotation=W7R9TULX))  
+([Huang et al., 2021, p. 11](zotero://select/groups/4789270/items/5ATG6F84))
+
+![image](attachments/NVPH3M39.png) ([pdf](zotero://open-pdf/groups/4789270/items/Z7KDLIU5?page=11&annotation=3JS5NFGW))  
+([Huang et al., 2021, p. 11](zotero://select/groups/4789270/items/5ATG6F84))
+		   - 51426-T2CRD8C3	   - ---
+itemNumber: '51426'
+itemKey: T2CRD8C3
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 12:04:49 pm)
+
+![image](attachments/NQITYIZE.png) ([pdf](zotero://open-pdf/groups/4789270/items/TBS8XTZF?page=2&annotation=SABYXIFU))  
+([Shan et al., 2018, p. 34](zotero://select/groups/4789270/items/RWM69DXY))
+
+![image](attachments/GBH7G3TG.png) ([pdf](zotero://open-pdf/groups/4789270/items/TBS8XTZF?page=3&annotation=36N5WMR9))  
+([Shan et al., 2018, p. 35](zotero://select/groups/4789270/items/RWM69DXY))
+
+![image](attachments/LESK8XAS.png) ([pdf](zotero://open-pdf/groups/4789270/items/TBS8XTZF?page=6&annotation=3L3LGZGH))  
+([Shan et al., 2018, p. 38](zotero://select/groups/4789270/items/RWM69DXY))
+
+![image](attachments/KHEDCX6H.png) ([pdf](zotero://open-pdf/groups/4789270/items/TBS8XTZF?page=7&annotation=HDKDDWJE))  
+([Shan et al., 2018, p. 39](zotero://select/groups/4789270/items/RWM69DXY))
+
+![image](attachments/HZUKU3AV.png) ([pdf](zotero://open-pdf/groups/4789270/items/TBS8XTZF?page=7&annotation=MTSST7RN))  
+([Shan et al., 2018, p. 39](zotero://select/groups/4789270/items/RWM69DXY))
+		   - 51453-3UM3PE6C	   - ---
+itemNumber: '51453'
+itemKey: 3UM3PE6C
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 11:48:01 am)
+
+![image](attachments/4EBRKERM.png) ([pdf](zotero://open-pdf/groups/4789270/items/NQ9SI47B?page=3&annotation=96C7A8LH))  
+([Reformat et al., 2018, p. 717](zotero://select/groups/4789270/items/IW25B3A5))
+
+![image](attachments/D67WEMYB.png) ([pdf](zotero://open-pdf/groups/4789270/items/NQ9SI47B?page=4&annotation=MFKR68AH))  
+([Reformat et al., 2018, p. 718](zotero://select/groups/4789270/items/IW25B3A5))
+
+![image](attachments/PQZA9LYG.png) ([pdf](zotero://open-pdf/groups/4789270/items/NQ9SI47B?page=10&annotation=RRSZ8HPL))  
+([Reformat et al., 2018, p. 724](zotero://select/groups/4789270/items/IW25B3A5))
+
+![image](attachments/STTCUBE2.png) ([pdf](zotero://open-pdf/groups/4789270/items/NQ9SI47B?page=11&annotation=BRH89NEL))  
+([Reformat et al., 2018, p. 725](zotero://select/groups/4789270/items/IW25B3A5))
+
+![image](attachments/3WVVETRP.png) ([pdf](zotero://open-pdf/groups/4789270/items/NQ9SI47B?page=11&annotation=MGCI4HRY))  
+([Reformat et al., 2018, p. 725](zotero://select/groups/4789270/items/IW25B3A5))
+		   - 51468-UDQVS4SW	   - ---
+itemNumber: '51468'
+itemKey: UDQVS4SW
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 11:42:01 am)
+
+![image](attachments/2HBLW6H5.png) ([pdf](zotero://open-pdf/groups/4789270/items/HUHKFU2L?page=2&annotation=EUKV8NXW))  
+([Miao et al., 2015, p. 2](zotero://select/groups/4789270/items/RN7G5Y2K))
+
+![image](attachments/G8GWSTH6.png) ([pdf](zotero://open-pdf/groups/4789270/items/HUHKFU2L?page=2&annotation=R2XNIR5K))  
+([Miao et al., 2015, p. 2](zotero://select/groups/4789270/items/RN7G5Y2K))
+		   - 51476-QC89B5S7	   - ---
+itemNumber: '51476'
+itemKey: QC89B5S7
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 11:39:56 am)
+
+![image](attachments/98TLCHCR.png) ([pdf](zotero://open-pdf/groups/4789270/items/QDIDC2CQ?page=2&annotation=5BXXLWTZ))  
+([Wang et al., 2019, p. 4719](zotero://select/groups/4789270/items/6BFPKE5D))
+
+![image](attachments/68VIV9X9.png) ([pdf](zotero://open-pdf/groups/4789270/items/QDIDC2CQ?page=2&annotation=KHITGVBJ))  
+([Wang et al., 2019, p. 4719](zotero://select/groups/4789270/items/6BFPKE5D))
+
+![image](attachments/HTIQTNI8.png) ([pdf](zotero://open-pdf/groups/4789270/items/QDIDC2CQ?page=3&annotation=JQPF8KPY))  
+([Wang et al., 2019, p. 4720](zotero://select/groups/4789270/items/6BFPKE5D))
+
+![image](attachments/WVCZ8L5Y.png) ([pdf](zotero://open-pdf/groups/4789270/items/QDIDC2CQ?page=3&annotation=HJIAYYEL))  
+([Wang et al., 2019, p. 4720](zotero://select/groups/4789270/items/6BFPKE5D))
+
+![image](attachments/ZGBIL9GH.png) ([pdf](zotero://open-pdf/groups/4789270/items/QDIDC2CQ?page=3&annotation=AMSL6LYD))  
+([Wang et al., 2019, p. 4720](zotero://select/groups/4789270/items/6BFPKE5D))
+
+![image](attachments/97MVLM5I.png) ([pdf](zotero://open-pdf/groups/4789270/items/QDIDC2CQ?page=4&annotation=FJMCKQ3I))  
+([Wang et al., 2019, p. 4721](zotero://select/groups/4789270/items/6BFPKE5D))
+		   - 51491-DF6WXT2I	   - ---
+itemNumber: '51491'
+itemKey: DF6WXT2I
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 11:36:45 am)
+
+![image](attachments/DYYD6ZWY.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=3&annotation=GNFWJST6))  
+([Chatterjee and Dethlefs, 2022, p. 3](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/W7LLPLI5.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=8&annotation=ZJILRIA7))  
+([Chatterjee and Dethlefs, 2022, p. 8](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/DKLPIGZU.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=11&annotation=PWPFARHM))  
+([Chatterjee and Dethlefs, 2022, p. 11](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/PJZTZYB7.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=12&annotation=3PLLLM8Q))  
+([Chatterjee and Dethlefs, 2022, p. 12](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/GGXU4ULH.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=15&annotation=YWYVGTPV))  
+([Chatterjee and Dethlefs, 2022, p. 15](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/UAMXVYU5.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=15&annotation=ISP7QTPG))  
+([Chatterjee and Dethlefs, 2022, p. 15](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/LAL4AZ37.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=20&annotation=KT9XHC2E))  
+([Chatterjee and Dethlefs, 2022, p. 20](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/JTRRHBT9.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=20&annotation=XN89LBR6))  
+([Chatterjee and Dethlefs, 2022, p. 20](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/U4R8LX5R.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=21&annotation=E5YUEN69))  
+([Chatterjee and Dethlefs, 2022, p. 21](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/FB7UMNPK.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=21&annotation=KRDK9CM3))  
+([Chatterjee and Dethlefs, 2022, p. 21](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/35AIM3CM.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=22&annotation=J7IIJBLH))  
+([Chatterjee and Dethlefs, 2022, p. 22](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/INC2DVYV.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=23&annotation=Q4WBC2HQ))  
+([Chatterjee and Dethlefs, 2022, p. 23](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/WNZ24M8A.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=24&annotation=NFQ98SJH))  
+([Chatterjee and Dethlefs, 2022, p. 24](zotero://select/groups/4789270/items/2DKUWZ39))
+
+![image](attachments/HRRDB2UD.png) ([pdf](zotero://open-pdf/groups/4789270/items/NLFQCBYF?page=30&annotation=EV7EIUEG))  
+([Chatterjee and Dethlefs, 2022, p. 30](zotero://select/groups/4789270/items/2DKUWZ39))
+		   - 51523-C9FBMUL7	   - ---
+itemNumber: '51523'
+itemKey: C9FBMUL7
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 12:25:25 pm)
+
+![image](attachments/B4GD5EV3.png) ([pdf](zotero://open-pdf/groups/4789270/items/TRI68Q2Q?page=2&annotation=FESI8SDQ))  
+([Cheng et al., 2022, p. 2](zotero://select/groups/4789270/items/CUGVGJUY))
+
+![image](attachments/7B9Z7H8A.png) ([pdf](zotero://open-pdf/groups/4789270/items/TRI68Q2Q?page=2&annotation=4MFM9K38))  
+([Cheng et al., 2022, p. 2](zotero://select/groups/4789270/items/CUGVGJUY))
+
+![image](attachments/PQWZ3K97.png) ([pdf](zotero://open-pdf/groups/4789270/items/TRI68Q2Q?page=3&annotation=JPJ3R7VE))  
+([Cheng et al., 2022, p. 3](zotero://select/groups/4789270/items/CUGVGJUY))
+
+![image](attachments/4FJFN6Q6.png) ([pdf](zotero://open-pdf/groups/4789270/items/TRI68Q2Q?page=4&annotation=5HFA4IGN))  
+([Cheng et al., 2022, p. 4](zotero://select/groups/4789270/items/CUGVGJUY))
+
+![image](attachments/H2IUJT6K.png) ([pdf](zotero://open-pdf/groups/4789270/items/TRI68Q2Q?page=6&annotation=TNBKBQM5))  
+([Cheng et al., 2022, p. 6](zotero://select/groups/4789270/items/CUGVGJUY))
+
+![image](attachments/ACQFJ6RV.png) ([pdf](zotero://open-pdf/groups/4789270/items/TRI68Q2Q?page=9&annotation=88AEAAUR))  
+([Cheng et al., 2022, p. 9](zotero://select/groups/4789270/items/CUGVGJUY))
+		   - 51568-HKL8HF6T	   - ---
+itemNumber: '51568'
+itemKey: HKL8HF6T
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 12:45:36 pm)
+
+![image](attachments/ST9VQH7J.png) ([pdf](zotero://open-pdf/groups/4789270/items/Q3Q7IESV?page=5&annotation=D8W9UG2Q))  
+([Akoka et al., 2020, p. 5](zotero://select/groups/4789270/items/S96ITPZ2))
+
+![image](attachments/SAEE5XE9.png) ([pdf](zotero://open-pdf/groups/4789270/items/Q3Q7IESV?page=6&annotation=XLEISMDY))  
+([Akoka et al., 2020, p. 6](zotero://select/groups/4789270/items/S96ITPZ2))
+
+![image](attachments/3TLGQ8TM.png) ([pdf](zotero://open-pdf/groups/4789270/items/Q3Q7IESV?page=7&annotation=PJCUGMHT))  
+([Akoka et al., 2020, p. 7](zotero://select/groups/4789270/items/S96ITPZ2))
+		   - 51583-ZTTEBMRR	   - ---
+itemNumber: '51583'
+itemKey: ZTTEBMRR
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 12:51:33 pm)
+
+![image](attachments/3QNXLE2B.png) ([pdf](zotero://open-pdf/groups/4789270/items/YBFPHSNW?page=1&annotation=M5ERCBUG))  
+([Xu et al., 2020, p. 9354](zotero://select/groups/4789270/items/UUZ2628A))
+
+![image](attachments/A9LGZWJ9.png) ([pdf](zotero://open-pdf/groups/4789270/items/YBFPHSNW?page=4&annotation=3TEDFHFH))  
+([Xu et al., 2020, p. 9357](zotero://select/groups/4789270/items/UUZ2628A))
+
+![image](attachments/H9CUEDB2.png) ([pdf](zotero://open-pdf/groups/4789270/items/YBFPHSNW?page=5&annotation=8XXA9249))  
+([Xu et al., 2020, p. 9358](zotero://select/groups/4789270/items/UUZ2628A))
+		   - 51599-NCJY6DXJ	   - ---
+itemNumber: '51599'
+itemKey: NCJY6DXJ
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 12:57:20 pm)
+
+![image](attachments/CHC2A8ZA.png) ([pdf](zotero://open-pdf/groups/4789270/items/HZPQ9SKP?page=2&annotation=BCQYKTK8))  
+([Bakhshi et al., 2020, p. 2](zotero://select/groups/4789270/items/2CM4R8K4))
+
+![image](attachments/JHB94FEB.png) ([pdf](zotero://open-pdf/groups/4789270/items/HZPQ9SKP?page=4&annotation=UQUIMTMZ))  
+([Bakhshi et al., 2020, p. 4](zotero://select/groups/4789270/items/2CM4R8K4))
+
+![image](attachments/UE93S8LA.png) ([pdf](zotero://open-pdf/groups/4789270/items/HZPQ9SKP?page=6&annotation=NAV5JM5G))  
+([Bakhshi et al., 2020, p. 6](zotero://select/groups/4789270/items/2CM4R8K4))
+
+![image](attachments/28J7R4WB.png) ([pdf](zotero://open-pdf/groups/4789270/items/HZPQ9SKP?page=14&annotation=7UTI8APD))  
+([Bakhshi et al., 2020, p. 14](zotero://select/groups/4789270/items/2CM4R8K4))
+
+![image](attachments/3N2IQU3N.png) ([pdf](zotero://open-pdf/groups/4789270/items/HZPQ9SKP?page=14&annotation=H6TJPNZ2))  
+([Bakhshi et al., 2020, p. 14](zotero://select/groups/4789270/items/2CM4R8K4))
+
+![image](attachments/YULILTCD.png) ([pdf](zotero://open-pdf/groups/4789270/items/HZPQ9SKP?page=16&annotation=BJ4M6GIZ))  
+([Bakhshi et al., 2020, p. 16](zotero://select/groups/4789270/items/2CM4R8K4))
+
+![image](attachments/83WAVL8T.png) ([pdf](zotero://open-pdf/groups/4789270/items/HZPQ9SKP?page=16&annotation=KV7BBFEP))  
+([Bakhshi et al., 2020, p. 16](zotero://select/groups/4789270/items/2CM4R8K4))
+		   - 51641-2YB9JMPQ	   - ---
+itemNumber: '51641'
+itemKey: 2YB9JMPQ
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 2:14:00 pm)
+
+![image](attachments/SFHBV7PE.png) ([pdf](zotero://open-pdf/groups/4789270/items/DSRFTYDZ?page=5&annotation=6HA5ABFL))  
+([Liu et al., 2019, p. 124692](zotero://select/groups/4789270/items/RQDJDYJJ))
+
+![image](attachments/UHBVG26V.png) ([pdf](zotero://open-pdf/groups/4789270/items/DSRFTYDZ?page=6&annotation=MD5D5FBZ))  
+([Liu et al., 2019, p. 124693](zotero://select/groups/4789270/items/RQDJDYJJ))
+
+![image](attachments/CZBRHBZS.png) ([pdf](zotero://open-pdf/groups/4789270/items/DSRFTYDZ?page=6&annotation=6HY7FYWT))  
+([Liu et al., 2019, p. 124693](zotero://select/groups/4789270/items/RQDJDYJJ))
+
+![image](attachments/W54ZDIJ8.png) ([pdf](zotero://open-pdf/groups/4789270/items/DSRFTYDZ?page=8&annotation=UJ2A8GIV))  
+([Liu et al., 2019, p. 124695](zotero://select/groups/4789270/items/RQDJDYJJ))
+
+![image](attachments/WQVPMXP5.png) ([pdf](zotero://open-pdf/groups/4789270/items/DSRFTYDZ?page=11&annotation=JGQYCR6R))  
+([Liu et al., 2019, p. 124698](zotero://select/groups/4789270/items/RQDJDYJJ))
+
+![image](attachments/GMGDQALA.png) ([pdf](zotero://open-pdf/groups/4789270/items/DSRFTYDZ?page=11&annotation=FULJ67FY))  
+([Liu et al., 2019, p. 124698](zotero://select/groups/4789270/items/RQDJDYJJ))
+		   - 51670-88S448WZ	   - ---
+itemNumber: '51670'
+itemKey: 88S448WZ
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 2:22:48 pm)
+
+![image](attachments/4VF9SDXJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/X2QA73Z2?page=7&annotation=IDFYIFAP))  
+([Wang et al., 2022, p. 3088](zotero://select/groups/4789270/items/KWPHSKEN))
+
+![image](attachments/3T4S7FND.png) ([pdf](zotero://open-pdf/groups/4789270/items/X2QA73Z2?page=10&annotation=G5WUABFX))  
+([Wang et al., 2022, p. 3091](zotero://select/groups/4789270/items/KWPHSKEN))
+		   - 51678-QXESBSER	   - ---
+itemNumber: '51678'
+itemKey: QXESBSER
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 2:18:56 pm)
+
+![image](attachments/7HCM5JRW.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=1&annotation=Q955FLKG))  
+([Chen et al., 2022, p. 294](zotero://select/groups/4789270/items/3KBL9DW5))
+
+![image](attachments/PRHQISQW.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=4&annotation=DSE5ZZ9F))  
+([Chen et al., 2022, p. 297](zotero://select/groups/4789270/items/3KBL9DW5))
+
+![image](attachments/7CJH84BT.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=5&annotation=BLZAV6B8))  
+([Chen et al., 2022, p. 298](zotero://select/groups/4789270/items/3KBL9DW5))
+
+![image](attachments/3MUQBCEC.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=14&annotation=GP69J78U))  
+([Chen et al., 2022, p. 307](zotero://select/groups/4789270/items/3KBL9DW5))
+
+![image](attachments/WTE5GK2S.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=14&annotation=RGU3CMI9))  
+([Chen et al., 2022, p. 307](zotero://select/groups/4789270/items/3KBL9DW5))
+
+![image](attachments/WSNTNPZZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=14&annotation=XAE8GUSJ))  
+([Chen et al., 2022, p. 307](zotero://select/groups/4789270/items/3KBL9DW5))
+
+![image](attachments/C3Y24PV8.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=15&annotation=IQHFMXYK))  
+([Chen et al., 2022, p. 308](zotero://select/groups/4789270/items/3KBL9DW5))
+
+![image](attachments/K6MJHWS5.png) ([pdf](zotero://open-pdf/groups/4789270/items/UIDD75WM?page=15&annotation=MQTT3XBX))  
+([Chen et al., 2022, p. 308](zotero://select/groups/4789270/items/3KBL9DW5))
+		   - 51691-U4XE8KZK	   - ---
+itemNumber: '51691'
+itemKey: U4XE8KZK
+tags: [visual-design]
+
+---
+
+# Annotations  
+(22/11/2022, 2:30:40 pm)
+
+![image](attachments/ULHHT45R.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHPXKZIN?page=1&annotation=778QMMLJ))  
+([Xie et al., 2018, p. 4954](zotero://select/groups/4789270/items/J6AS42Q5))
+
+![image](attachments/49IPPB79.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHPXKZIN?page=3&annotation=SHJT4SE2))  
+([Xie et al., 2018, p. 4956](zotero://select/groups/4789270/items/J6AS42Q5))
+
+![image](attachments/U36EU6SJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHPXKZIN?page=6&annotation=SKF3E4VV))  
+([Xie et al., 2018, p. 4959](zotero://select/groups/4789270/items/J6AS42Q5))
+		   - 51707-SXYZCXJL	   - ---
+itemNumber: '51707'
+itemKey: SXYZCXJL
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 9:37:01 am)
+
+![image](attachments/RCSLFSSI.png) ([pdf](zotero://open-pdf/groups/4789270/items/L9JUQWQC?page=6&annotation=F3DD9FLF))  
+([Cano-Oron, 2019, p. 6](zotero://select/groups/4789270/items/SHP4P8ZI))
+
+![image](attachments/ATY2GRFD.png) ([pdf](zotero://open-pdf/groups/4789270/items/L9JUQWQC?page=6&annotation=Z3F2DCIW))  
+([Cano-Oron, 2019, p. 6](zotero://select/groups/4789270/items/SHP4P8ZI))
+
+![image](attachments/FJXR5M77.png) ([pdf](zotero://open-pdf/groups/4789270/items/L9JUQWQC?page=7&annotation=YG7Q386N))  
+([Cano-Oron, 2019, p. 7](zotero://select/groups/4789270/items/SHP4P8ZI))
+
+![image](attachments/E6MGL6GY.png) ([pdf](zotero://open-pdf/groups/4789270/items/L9JUQWQC?page=8&annotation=CB5W48J7))  
+([Cano-Oron, 2019, p. 8](zotero://select/groups/4789270/items/SHP4P8ZI))
+		   - 51734-X7VESQZ4	   - ---
+itemNumber: '51734'
+itemKey: X7VESQZ4
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 10:27:02 am)
+
+![image](attachments/P7C9W5WG.png) ([pdf](zotero://open-pdf/groups/4789270/items/PD8ZHKBK?page=4&annotation=APZFI55F))  
+([Lu et al., 2018, p. 336](zotero://select/groups/4789270/items/GPJT2IVC))
+
+![image](attachments/ITYWRH4P.png) ([pdf](zotero://open-pdf/groups/4789270/items/PD8ZHKBK?page=5&annotation=XC4B36SM))  
+([Lu et al., 2018, p. 337](zotero://select/groups/4789270/items/GPJT2IVC))
+
+![image](attachments/VVK69MZ3.png) ([pdf](zotero://open-pdf/groups/4789270/items/PD8ZHKBK?page=6&annotation=HE7UYS9H))  
+([Lu et al., 2018, p. 338](zotero://select/groups/4789270/items/GPJT2IVC))
+
+![image](attachments/TWEZD3GD.png) ([pdf](zotero://open-pdf/groups/4789270/items/PD8ZHKBK?page=8&annotation=P3N8UJ9J))  
+([Lu et al., 2018, p. 340](zotero://select/groups/4789270/items/GPJT2IVC))
+
+![image](attachments/ZJFPRB9R.png) ([pdf](zotero://open-pdf/groups/4789270/items/PD8ZHKBK?page=10&annotation=K8V478EB))  
+([Lu et al., 2018, p. 342](zotero://select/groups/4789270/items/GPJT2IVC))
+
+![image](attachments/MJIWP9J2.png) ([pdf](zotero://open-pdf/groups/4789270/items/PD8ZHKBK?page=14&annotation=L9RPR4TV))  
+([Lu et al., 2018, p. 346](zotero://select/groups/4789270/items/GPJT2IVC))
+		   - 51766-EX6UP6XR	   - ---
+itemNumber: '51766'
+itemKey: EX6UP6XR
+tags: [visual-design]
+
+---
+
+![image](attachments/6W86X7TQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=1&annotation=VVA7VPZ4))  
+([Tian et al., 2020, p. 1](zotero://select/groups/4789270/items/RBTXWJYH))
+
+![image](attachments/MUEHET8T.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=4&annotation=JZTAD9BB))  
+([Tian et al., 2020, p. 4](zotero://select/groups/4789270/items/RBTXWJYH))
+
+![image](attachments/E2V9SVWC.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=5&annotation=K3WR6V24))  
+([Tian et al., 2020, p. 5](zotero://select/groups/4789270/items/RBTXWJYH))
+
+![image](attachments/RXT5LSDD.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=7&annotation=8KBXM87N))  
+([Tian et al., 2020, p. 7](zotero://select/groups/4789270/items/RBTXWJYH))
+
+![image](attachments/IUHS8JCB.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=7&annotation=PCN3VEBI))  
+([Tian et al., 2020, p. 7](zotero://select/groups/4789270/items/RBTXWJYH))
+
+![image](attachments/952T9IGW.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=7&annotation=E7ZTFKP3))  
+([Tian et al., 2020, p. 7](zotero://select/groups/4789270/items/RBTXWJYH))
+
+![image](attachments/NKEA9LL6.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=8&annotation=C6MQYZI7))  
+([Tian et al., 2020, p. 8](zotero://select/groups/4789270/items/RBTXWJYH))
+
+![image](attachments/XN9XRAVB.png) ([pdf](zotero://open-pdf/groups/4789270/items/8KAMHD5U?page=8&annotation=R4I9WPCA))  
+([Tian et al., 2020, p. 8](zotero://select/groups/4789270/items/RBTXWJYH))
+		   - 51803-HQ5PCD6Y	   - ---
+itemNumber: '51803'
+itemKey: HQ5PCD6Y
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 12:04:04 pm)
+
+![image](attachments/47QA2KAF.png) ([pdf](zotero://open-pdf/groups/4789270/items/NJUPX84F?page=3&annotation=NQEKZADQ))  
+([Chowdhury et al., 2014, p. 3](zotero://select/groups/4789270/items/33BNFFVF))
+
+![image](attachments/Q8MG97PQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/NJUPX84F?page=14&annotation=KFYGHFYU))  
+([Chowdhury et al., 2014, p. 14](zotero://select/groups/4789270/items/33BNFFVF))
+		   - 51843-LWE3Y9UM	   - ---
+itemNumber: '51843'
+itemKey: LWE3Y9UM
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 2:25:13 pm)
+
+![image](attachments/729YSGJ2.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=3&annotation=8YI7W2RR))  
+([Berquand et al., 2019, p. 3](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/HTH8VZI8.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=3&annotation=WHRJGJ9H))  
+([Berquand et al., 2019, p. 3](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/LQD2QLWU.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=4&annotation=22AA6XU7))  
+([Berquand et al., 2019, p. 4](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/K6E96ACS.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=4&annotation=9XAE869J))  
+([Berquand et al., 2019, p. 4](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/Q8L8FFN3.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=4&annotation=4I7JSDIZ))  
+([Berquand et al., 2019, p. 4](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/RESPJU22.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=4&annotation=TM25EHI6))  
+([Berquand et al., 2019, p. 4](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/7IZ8WF2R.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=7&annotation=DWALEJ5H))  
+([Berquand et al., 2019, p. 7](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/FL6RLXHU.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=9&annotation=KMUDEAX8))  
+([Berquand et al., 2019, p. 9](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/VJB6WIBE.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=10&annotation=JE83GNXE))  
+([Berquand et al., 2019, p. 10](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/D54NTH3S.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=11&annotation=G7YJZMMK))  
+([Berquand et al., 2019, p. 11](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/XZXXUKBP.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=13&annotation=J4DXJ4Y6))  
+([Berquand et al., 2019, p. 13](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/AT57DHVE.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=14&annotation=R8FE4FL8))  
+([Berquand et al., 2019, p. 14](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/KT8ZXL9R.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=14&annotation=C8VSSIX9))  
+([Berquand et al., 2019, p. 14](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/2M7D5W7B.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=15&annotation=YUJ33DPH))  
+([Berquand et al., 2019, p. 15](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/QE8GLYQS.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=17&annotation=UZ4NL28P))  
+([Berquand et al., 2019, p. 17](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/SFVAT6CR.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=17&annotation=6JG33QSM))  
+([Berquand et al., 2019, p. 17](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/38JP73V9.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=17&annotation=RGQ795YV))  
+([Berquand et al., 2019, p. 17](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/YRSUILTL.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=18&annotation=LKVLVYI9))  
+([Berquand et al., 2019, p. 18](zotero://select/groups/4789270/items/7YPUSRQS))
+
+![image](attachments/GH6MKXT6.png) ([pdf](zotero://open-pdf/groups/4789270/items/MLV5UH3D?page=19&annotation=SZGCLD54))  
+([Berquand et al., 2019, p. 19](zotero://select/groups/4789270/items/7YPUSRQS))
+		   - 51876-GR2LRXQL	   - ---
+itemNumber: '51876'
+itemKey: GR2LRXQL
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 2:56:37 pm)
+
+![image](attachments/PJCJJ42Z.png) ([pdf](zotero://open-pdf/groups/4789270/items/CV27YDPN?page=1&annotation=SK2MRP8K))  
+([Niu et al., 2022, p. 1](zotero://select/groups/4789270/items/XT4GUPQQ))
+
+![image](attachments/GMDSGTRW.png) ([pdf](zotero://open-pdf/groups/4789270/items/CV27YDPN?page=4&annotation=EJDFP9AG))  
+([Niu et al., 2022, p. 4](zotero://select/groups/4789270/items/XT4GUPQQ))
+
+![image](attachments/3CRDKCNZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/CV27YDPN?page=5&annotation=WT2L5I54))  
+([Niu et al., 2022, p. 5](zotero://select/groups/4789270/items/XT4GUPQQ))
+
+![image](attachments/HA2ERNER.png) ([pdf](zotero://open-pdf/groups/4789270/items/CV27YDPN?page=8&annotation=B3JVIF2F))  
+([Niu et al., 2022, p. 8](zotero://select/groups/4789270/items/XT4GUPQQ))
+		   - 51903-W25KBZ38	   - ---
+itemNumber: '51903'
+itemKey: W25KBZ38
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 3:45:39 pm)
+
+![image](attachments/TEDI3ILG.png) ([pdf](zotero://open-pdf/groups/4789270/items/KMKWU6N3?page=2&annotation=Q3PB94FF))  
+([Cheng et al., 2018, p. 2](zotero://select/groups/4789270/items/ZCIV9TDZ))
+
+![image](attachments/NQWL9KHI.png) ([pdf](zotero://open-pdf/groups/4789270/items/KMKWU6N3?page=2&annotation=JKWIVH92))  
+([Cheng et al., 2018, p. 2](zotero://select/groups/4789270/items/ZCIV9TDZ))
+
+![image](attachments/Y96PYBIP.png) ([pdf](zotero://open-pdf/groups/4789270/items/KMKWU6N3?page=3&annotation=P8APZSJ9))  
+([Cheng et al., 2018, p. 3](zotero://select/groups/4789270/items/ZCIV9TDZ))
+
+![image](attachments/L4PC7U75.png) ([pdf](zotero://open-pdf/groups/4789270/items/KMKWU6N3?page=4&annotation=NWFFJVXW))  
+([Cheng et al., 2018, p. 4](zotero://select/groups/4789270/items/ZCIV9TDZ))
+
+![image](attachments/5CAHN8PS.png) ([pdf](zotero://open-pdf/groups/4789270/items/KMKWU6N3?page=4&annotation=KNA7ZKIF))  
+([Cheng et al., 2018, p. 4](zotero://select/groups/4789270/items/ZCIV9TDZ))
+
+![image](attachments/PUDTXNEL.png) ([pdf](zotero://open-pdf/groups/4789270/items/KMKWU6N3?page=4&annotation=V7UBSJ8Y))  
+([Cheng et al., 2018, p. 4](zotero://select/groups/4789270/items/ZCIV9TDZ))
+		   - 51931-BSESXYMW	   - ---
+itemNumber: '51931'
+itemKey: BSESXYMW
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 4:00:27 pm)
+
+![image](attachments/UTZ4975V.png) ([pdf](zotero://open-pdf/groups/4789270/items/A6V2T3MI?page=5&annotation=UG9YQ28D))  
+([Zhao et al., 2021, p. 16762](zotero://select/groups/4789270/items/BCJHYLVY))
+
+![image](attachments/62VKGZGV.png) ([pdf](zotero://open-pdf/groups/4789270/items/A6V2T3MI?page=6&annotation=GL755FY4))  
+([Zhao et al., 2021, p. 16763](zotero://select/groups/4789270/items/BCJHYLVY))
+
+![image](attachments/LFEQKH3N.png) ([pdf](zotero://open-pdf/groups/4789270/items/A6V2T3MI?page=6&annotation=BC53DE2Z))  
+([Zhao et al., 2021, p. 16763](zotero://select/groups/4789270/items/BCJHYLVY))
+
+![image](attachments/8N6E544J.png) ([pdf](zotero://open-pdf/groups/4789270/items/A6V2T3MI?page=6&annotation=EUH5LGL6))  
+([Zhao et al., 2021, p. 16763](zotero://select/groups/4789270/items/BCJHYLVY))
+
+![image](attachments/2TV8E5EE.png) ([pdf](zotero://open-pdf/groups/4789270/items/A6V2T3MI?page=7&annotation=UZCN5DYI))  
+([Zhao et al., 2021, p. 16764](zotero://select/groups/4789270/items/BCJHYLVY))
+		   - 51958-FNFY7PFI	   - ---
+itemNumber: '51958'
+itemKey: FNFY7PFI
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 4:21:25 pm)
+
+![image](attachments/3E383IRR.png) ([pdf](zotero://open-pdf/groups/4789270/items/AAHH9QDL?page=4&annotation=G9Q5UK5S))  
+([Xiong et al., 2021, p. 4](zotero://select/groups/4789270/items/Y5U73D3Z))
+
+![image](attachments/BWRR5KUG.png) ([pdf](zotero://open-pdf/groups/4789270/items/AAHH9QDL?page=5&annotation=C5MJTDI8))  
+([Xiong et al., 2021, p. 5](zotero://select/groups/4789270/items/Y5U73D3Z))
+
+![image](attachments/XEUSU3KE.png) ([pdf](zotero://open-pdf/groups/4789270/items/AAHH9QDL?page=6&annotation=54K66FZI))  
+([Xiong et al., 2021, p. 6](zotero://select/groups/4789270/items/Y5U73D3Z))
+
+![image](attachments/9FDWHRNH.png) ([pdf](zotero://open-pdf/groups/4789270/items/AAHH9QDL?page=6&annotation=PUH8LUW8))  
+([Xiong et al., 2021, p. 6](zotero://select/groups/4789270/items/Y5U73D3Z))
+
+![image](attachments/25QAIBYQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/AAHH9QDL?page=7&annotation=D87P2CRS))  
+([Xiong et al., 2021, p. 7](zotero://select/groups/4789270/items/Y5U73D3Z))
+		   - 51993-SRVQ9WNR	   - ---
+itemNumber: '51993'
+itemKey: SRVQ9WNR
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 5:09:22 pm)
+
+![image](attachments/NQQGF9AB.png) ([pdf](zotero://open-pdf/groups/4789270/items/DLYQJN9S?page=3&annotation=N5SJFWUT))  
+([Ma et al., 2019, p. 3](zotero://select/groups/4789270/items/DZG95AU3))
+
+![image](attachments/DRJVHU64.png) ([pdf](zotero://open-pdf/groups/4789270/items/DLYQJN9S?page=4&annotation=STAQUDCP))  
+([Ma et al., 2019, p. 4](zotero://select/groups/4789270/items/DZG95AU3))
+
+![image](attachments/UQ2YWQ85.png) ([pdf](zotero://open-pdf/groups/4789270/items/DLYQJN9S?page=6&annotation=MZS32IYS))  
+([Ma et al., 2019, p. 6](zotero://select/groups/4789270/items/DZG95AU3))
+
+![image](attachments/VFTXW7WI.png) ([pdf](zotero://open-pdf/groups/4789270/items/DLYQJN9S?page=16&annotation=RJF4HK56))  
+([Ma et al., 2019, p. 16](zotero://select/groups/4789270/items/DZG95AU3))
+
+![image](attachments/JV2BINPF.png) ([pdf](zotero://open-pdf/groups/4789270/items/DLYQJN9S?page=18&annotation=MDPUTFM4))  
+([Ma et al., 2019, p. 18](zotero://select/groups/4789270/items/DZG95AU3))
+
+![image](attachments/6P8HDAAC.png) ([pdf](zotero://open-pdf/groups/4789270/items/DLYQJN9S?page=19&annotation=LFMAW97E))  
+([Ma et al., 2019, p. 19](zotero://select/groups/4789270/items/DZG95AU3))
+		   - 52002-ZUCG9JZB	   - ---
+itemNumber: '52002'
+itemKey: ZUCG9JZB
+tags: [visual-design]
+
+---
+
+![image](attachments/HCE6PX8B.png) ([pdf](zotero://open-pdf/groups/4789270/items/2WUYWGW8?page=2&annotation=I68R57L5))  
+([Al-Khatib et al., 2020, p. 7368](zotero://select/groups/4789270/items/JWVAMT4H))
+
+![image](attachments/EQ6B5RV4.png) ([pdf](zotero://open-pdf/groups/4789270/items/2WUYWGW8?page=4&annotation=S8CZI9NZ))  
+([Al-Khatib et al., 2020, p. 7370](zotero://select/groups/4789270/items/JWVAMT4H))
+		   - 52008-LVI5L2T6	   - ---
+itemNumber: '52008'
+itemKey: LVI5L2T6
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 5:18:13 pm)
+
+![image](attachments/GVVIMM7Y.png) ([pdf](zotero://open-pdf/groups/4789270/items/YCCYQRMN?page=5&annotation=6VSX33N5))  
+([Hao et al., p. 5](zotero://select/groups/4789270/items/MX2XYVEW))
+
+![image](attachments/JSWY9V3P.png) ([pdf](zotero://open-pdf/groups/4789270/items/YCCYQRMN?page=9&annotation=E7YHNEVA))  
+([Hao et al., p. 9](zotero://select/groups/4789270/items/MX2XYVEW))
+		   - 52017-SX2T2GBK	   - ---
+itemNumber: '52017'
+itemKey: SX2T2GBK
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 5:23:00 pm)
+
+![image](attachments/WZH3Q3X8.png) ([pdf](zotero://open-pdf/groups/4789270/items/JL4U73BH?page=3&annotation=JXCWIXL3))  
+([Melluso et al., 2022, p. 2](zotero://select/groups/4789270/items/Q88VBZSD))
+
+![image](attachments/QR3Y98U9.png) ([pdf](zotero://open-pdf/groups/4789270/items/JL4U73BH?page=4&annotation=JRRA2HBH))  
+([Melluso et al., 2022, p. 3](zotero://select/groups/4789270/items/Q88VBZSD))
+
+![image](attachments/2ADNNCX4.png) ([pdf](zotero://open-pdf/groups/4789270/items/JL4U73BH?page=5&annotation=9HJKZP3P))  
+([Melluso et al., 2022, p. 4](zotero://select/groups/4789270/items/Q88VBZSD))
+
+![image](attachments/FB5BD5PX.png) ([pdf](zotero://open-pdf/groups/4789270/items/JL4U73BH?page=7&annotation=XRGCFICK))  
+([Melluso et al., 2022, p. 6](zotero://select/groups/4789270/items/Q88VBZSD))
+
+![image](attachments/FQQVNVCT.png) ([pdf](zotero://open-pdf/groups/4789270/items/JL4U73BH?page=8&annotation=NV32DK66))  
+([Melluso et al., 2022, p. 7](zotero://select/groups/4789270/items/Q88VBZSD))
+
+![image](attachments/KMVYAVYH.png) ([pdf](zotero://open-pdf/groups/4789270/items/JL4U73BH?page=10&annotation=SILTTGKZ))  
+([Melluso et al., 2022, p. 9](zotero://select/groups/4789270/items/Q88VBZSD))
+		   - 52047-CKUFZJFZ	   - ---
+itemNumber: '52047'
+itemKey: CKUFZJFZ
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 5:43:07 pm)
+
+![image](attachments/JSY5DCL6.png) ([pdf](zotero://open-pdf/groups/4789270/items/S9829YNJ?page=4&annotation=TS23YJ3G))  
+([An et al., 2020, p. 4](zotero://select/groups/4789270/items/VR3YNZ38))
+
+![image](attachments/XVKGK6VV.png) ([pdf](zotero://open-pdf/groups/4789270/items/S9829YNJ?page=4&annotation=A8WYNNII))  
+([An et al., 2020, p. 4](zotero://select/groups/4789270/items/VR3YNZ38))
+
+![image](attachments/BH9VUUXN.png) ([pdf](zotero://open-pdf/groups/4789270/items/S9829YNJ?page=8&annotation=R6K3P3G4))  
+([An et al., 2020, p. 8](zotero://select/groups/4789270/items/VR3YNZ38))
+
+![image](attachments/K2PDTDEL.png) ([pdf](zotero://open-pdf/groups/4789270/items/S9829YNJ?page=9&annotation=KQVG57WU))  
+([An et al., 2020, p. 9](zotero://select/groups/4789270/items/VR3YNZ38))
+
+![image](attachments/2E2L5F3T.png) ([pdf](zotero://open-pdf/groups/4789270/items/S9829YNJ?page=9&annotation=QXWIK9R2))  
+([An et al., 2020, p. 9](zotero://select/groups/4789270/items/VR3YNZ38))
+
+![image](attachments/6B52KGVK.png) ([pdf](zotero://open-pdf/groups/4789270/items/S9829YNJ?page=10&annotation=MA23V3LD))  
+([An et al., 2020, p. 10](zotero://select/groups/4789270/items/VR3YNZ38))
+		   - 52069-H82YRYQ4	   - ---
+itemNumber: '52069'
+itemKey: H82YRYQ4
+tags: [visual-design]
+
+---
+
+# Annotations  
+(23/11/2022, 5:54:41 pm)
+
+![image](attachments/JF7HQRPQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=6&annotation=JMCWEVL2))  
+([Jiang et al., 2022, p. 202](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/FYYNJQZE.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=7&annotation=EYSCUDZ4))  
+([Jiang et al., 2022, p. 203](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/2A9WEXNC.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=11&annotation=E3SCCHEB))  
+([Jiang et al., 2022, p. 207](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/39P2HHLC.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=11&annotation=J862ZABW))  
+([Jiang et al., 2022, p. 207](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/NP2YWNB4.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=12&annotation=2FFL6STU))  
+([Jiang et al., 2022, p. 208](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/NBTJYZE5.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=13&annotation=RJXW79D7))  
+([Jiang et al., 2022, p. 209](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/4S4RIM3I.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=13&annotation=Y9D39A2W))  
+([Jiang et al., 2022, p. 209](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/S4L75PXD.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=13&annotation=NSHEJZ35))  
+([Jiang et al., 2022, p. 209](zotero://select/groups/4789270/items/VPHHJC4T))
+
+![image](attachments/L29BTY7R.png) ([pdf](zotero://open-pdf/groups/4789270/items/I32AZ6MR?page=14&annotation=3MGQHR9N))  
+([Jiang et al., 2022, p. 210](zotero://select/groups/4789270/items/VPHHJC4T))
+		   - 52137-CBMEV2R4	   - ---
+itemNumber: '52137'
+itemKey: CBMEV2R4
+tags: [visual-design]
+
+---
+
+# Annotations  
+(25/11/2022, 9:15:44 am)
+
+![image](attachments/SA59X5B3.png) ([pdf](zotero://open-pdf/groups/4789270/items/TJQMMZ5F?page=9&annotation=ZADDH3YX))  
+([Chen et al., 2020, p. 867](zotero://select/groups/4789270/items/UGBL3JAK))
+
+![image](attachments/F94KDS9N.png) ([pdf](zotero://open-pdf/groups/4789270/items/TJQMMZ5F?page=10&annotation=ZZ8XYV7I))  
+([Chen et al., 2020, p. 868](zotero://select/groups/4789270/items/UGBL3JAK))
+
+![image](attachments/JA3AIUNJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/TJQMMZ5F?page=11&annotation=BLWME28Y))  
+([Chen et al., 2020, p. 869](zotero://select/groups/4789270/items/UGBL3JAK))
+
+![image](attachments/GWVQKCCP.png) ([pdf](zotero://open-pdf/groups/4789270/items/TJQMMZ5F?page=12&annotation=LI43Q53L))  
+([Chen et al., 2020, p. 870](zotero://select/groups/4789270/items/UGBL3JAK))
+
+![image](attachments/B7IJBGNH.png) ([pdf](zotero://open-pdf/groups/4789270/items/TJQMMZ5F?page=12&annotation=DV9MKWYX))  
+([Chen et al., 2020, p. 870](zotero://select/groups/4789270/items/UGBL3JAK))
+
+![image](attachments/76W7JYLH.png) ([pdf](zotero://open-pdf/groups/4789270/items/TJQMMZ5F?page=13&annotation=EKD82VX7))  
+([Chen et al., 2020, p. 871](zotero://select/groups/4789270/items/UGBL3JAK))
+
+![image](attachments/2KHE4MCD.png) ([pdf](zotero://open-pdf/groups/4789270/items/TJQMMZ5F?page=13&annotation=GCDDW7CJ))  
+([Chen et al., 2020, p. 871](zotero://select/groups/4789270/items/UGBL3JAK))
+		   - 52157-LXF3X4CQ	   - ---
+itemNumber: '52157'
+itemKey: LXF3X4CQ
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 6:29:40 pm)
+
+![image](attachments/HGETRZ56.png) ([pdf](zotero://open-pdf/groups/4789270/items/7N8KE32R?page=5&annotation=TL9N2QCI))  
+([Kattenbeck et al., 2019, p. 372](zotero://select/groups/4789270/items/PVR79DL9))
+
+![image](attachments/97DRTIZS.png) ([pdf](zotero://open-pdf/groups/4789270/items/7N8KE32R?page=7&annotation=VFANGLB3))  
+([Kattenbeck et al., 2019, p. 374](zotero://select/groups/4789270/items/PVR79DL9))
+
+![image](attachments/TKTQFK7Q.png) ([pdf](zotero://open-pdf/groups/4789270/items/7N8KE32R?page=22&annotation=SPF6RYYV))  
+([Kattenbeck et al., 2019, p. 389](zotero://select/groups/4789270/items/PVR79DL9))
+
+![image](attachments/ZHDDP2J2.png) ([pdf](zotero://open-pdf/groups/4789270/items/7N8KE32R?page=23&annotation=8Q8NFL3X))  
+([Kattenbeck et al., 2019, p. 390](zotero://select/groups/4789270/items/PVR79DL9))
+
+![image](attachments/4S58ULFG.png) ([pdf](zotero://open-pdf/groups/4789270/items/7N8KE32R?page=24&annotation=WNSRRLTV))  
+([Kattenbeck et al., 2019, p. 391](zotero://select/groups/4789270/items/PVR79DL9))
+		   - 52172-FHWBZEJJ	   - ---
+itemNumber: '52172'
+itemKey: FHWBZEJJ
+tags: [visual-design]
+
+---
+
+![image](attachments/UJGA8JNL.png) ([pdf](zotero://open-pdf/groups/4789270/items/UT8GWIN5?page=6&annotation=T2TBHU3G))  
+([Boutouhami et al., 2020, p. 134](zotero://select/groups/4789270/items/RUTGS487))
+		   - 52177-TVVMLLHS	   - ---
+itemNumber: '52177'
+itemKey: TVVMLLHS
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 6:21:15 pm)
+
+![image](attachments/EYTFNCL7.png) ([pdf](zotero://open-pdf/groups/4789270/items/5NMJTL9Q?page=2&annotation=UBLA3PIB))  
+([Yin et al., 2007, p. 1049](zotero://select/groups/4789270/items/HF5UBM2W))
+
+![image](attachments/3L3YUD4I.png) ([pdf](zotero://open-pdf/groups/4789270/items/5NMJTL9Q?page=3&annotation=SSB3JWI4))  
+([Yin et al., 2007, p. 1050](zotero://select/groups/4789270/items/HF5UBM2W))
+
+![image](attachments/Q7LED7ZV.png) ([pdf](zotero://open-pdf/groups/4789270/items/5NMJTL9Q?page=4&annotation=ERL843AF))  
+([Yin et al., 2007, p. 1051](zotero://select/groups/4789270/items/HF5UBM2W))
+
+![image](attachments/JVQYAQUI.png) ([pdf](zotero://open-pdf/groups/4789270/items/5NMJTL9Q?page=5&annotation=RFJJ5Q3Q))  
+([Yin et al., 2007, p. 1052](zotero://select/groups/4789270/items/HF5UBM2W))
+		   - 52188-7QWYK3GC	   - ---
+itemNumber: '52188'
+itemKey: 7QWYK3GC
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 6:19:02 pm)
+
+![image](attachments/KM322B9X.png) ([pdf](zotero://open-pdf/groups/4789270/items/VW88TGXL?page=2&annotation=WWU7RL92))  
+([Jia et al., 2019, p. 2](zotero://select/groups/4789270/items/9DJ9MN6E))
+
+![image](attachments/JEGYPE6S.png) ([pdf](zotero://open-pdf/groups/4789270/items/VW88TGXL?page=3&annotation=H52MGMTN))  
+([Jia et al., 2019, p. 3](zotero://select/groups/4789270/items/9DJ9MN6E))
+
+![image](attachments/IV5LCBPH.png) ([pdf](zotero://open-pdf/groups/4789270/items/VW88TGXL?page=3&annotation=D3B4HM6S))  
+([Jia et al., 2019, p. 3](zotero://select/groups/4789270/items/9DJ9MN6E))
+
+![image](attachments/UK8ILYWD.png) ([pdf](zotero://open-pdf/groups/4789270/items/VW88TGXL?page=3&annotation=IGE6IPUK))  
+([Jia et al., 2019, p. 3](zotero://select/groups/4789270/items/9DJ9MN6E))
+
+![image](attachments/VHVAWEG6.png) ([pdf](zotero://open-pdf/groups/4789270/items/VW88TGXL?page=5&annotation=Z43KW6A2))  
+([Jia et al., 2019, p. 5](zotero://select/groups/4789270/items/9DJ9MN6E))
+		   - 52206-ZMTZHMBC	   - ---
+itemNumber: '52206'
+itemKey: ZMTZHMBC
+tags: [visual-design]
+
+---
+
+![image](attachments/QEPGSCZ3.png) ([pdf](zotero://open-pdf/groups/4789270/items/DTJF5S9A?page=3&annotation=8JPIMD6W))  
+([Xie et al., 2021, p. 3](zotero://select/groups/4789270/items/VM2PZJMN))
+
+![image](attachments/7JRRALE9.png) ([pdf](zotero://open-pdf/groups/4789270/items/DTJF5S9A?page=4&annotation=ENFRL3FT))  
+([Xie et al., 2021, p. 4](zotero://select/groups/4789270/items/VM2PZJMN))
+
+![image](attachments/8Q35TRCM.png) ([pdf](zotero://open-pdf/groups/4789270/items/DTJF5S9A?page=5&annotation=Q4ZHWT4W))  
+([Xie et al., 2021, p. 5](zotero://select/groups/4789270/items/VM2PZJMN))
+
+![image](attachments/SNAER9MY.png) ([pdf](zotero://open-pdf/groups/4789270/items/DTJF5S9A?page=6&annotation=FDUUJB5Q))  
+([Xie et al., 2021, p. 6](zotero://select/groups/4789270/items/VM2PZJMN))
+
+![image](attachments/FRQ2ZENJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/DTJF5S9A?page=7&annotation=JAYT2RVN))  
+([Xie et al., 2021, p. 7](zotero://select/groups/4789270/items/VM2PZJMN))
+
+![image](attachments/XYGQL4M4.png) ([pdf](zotero://open-pdf/groups/4789270/items/DTJF5S9A?page=8&annotation=U75IKH9V))  
+([Xie et al., 2021, p. 8](zotero://select/groups/4789270/items/VM2PZJMN))
+
+![image](attachments/I7W8MXYI.png) ([pdf](zotero://open-pdf/groups/4789270/items/DTJF5S9A?page=9&annotation=K6Y8FG4J))  
+([Xie et al., 2021, p. 9](zotero://select/groups/4789270/items/VM2PZJMN))
+		   - 52223-5HCPWJCN	   - ---
+itemNumber: '52223'
+itemKey: 5HCPWJCN
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 6:06:26 pm)
+
+![image](attachments/ZYLQFRM9.png) ([pdf](zotero://open-pdf/groups/4789270/items/FB7HAKF3?page=3&annotation=WVXXNC3R))  
+([Xu et al., 2020, p. 656](zotero://select/groups/4789270/items/UYIJH289))
+
+![image](attachments/GZCV6DXN.png) ([pdf](zotero://open-pdf/groups/4789270/items/FB7HAKF3?page=5&annotation=53FT25GR))  
+([Xu et al., 2020, p. 658](zotero://select/groups/4789270/items/UYIJH289))
+
+![image](attachments/SZSHYUIX.png) ([pdf](zotero://open-pdf/groups/4789270/items/FB7HAKF3?page=14&annotation=6H7EHSLC))  
+([Xu et al., 2020, p. 667](zotero://select/groups/4789270/items/UYIJH289))
+		   - 52234-W56XBK5T	   - ---
+itemNumber: '52234'
+itemKey: W56XBK5T
+tags: [visual-design]
+
+---
+
+![image](attachments/6E4G2V3T.png) ([pdf](zotero://open-pdf/groups/4789270/items/77M6BF4Q?page=3&annotation=YCRHANJ4))
+
+([Ma et al., 2022, p. 621](zotero://select/groups/4789270/items/AR7WUHM5))
+
+![image](attachments/UCJ45WAB.png) ([pdf](zotero://open-pdf/groups/4789270/items/77M6BF4Q?page=4&annotation=3QSLRACL))  
+([Ma et al., 2022, p. 622](zotero://select/groups/4789270/items/AR7WUHM5))
+		   - 52248-KJF8VTIS	   - ---
+itemNumber: '52248'
+itemKey: KJF8VTIS
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 9:13:00 am)
+
+![image](attachments/UBIHDP6N.png) ([pdf](zotero://open-pdf/groups/4789270/items/TKYRBWHH?page=2&annotation=UETPTFQA))  
+([Lyu et al., 2022, p. 1411](zotero://select/groups/4789270/items/AADWMPTY))
+
+![image](attachments/4NPW7IKM.png) ([pdf](zotero://open-pdf/groups/4789270/items/TKYRBWHH?page=3&annotation=CX8ST5SE))  
+([Lyu et al., 2022, p. 1412](zotero://select/groups/4789270/items/AADWMPTY))
+
+![image](attachments/EW5SYVWM.png) ([pdf](zotero://open-pdf/groups/4789270/items/TKYRBWHH?page=5&annotation=VZJUZTWA))  
+([Lyu et al., 2022, p. 1414](zotero://select/groups/4789270/items/AADWMPTY))
+
+![image](attachments/BJPVCD4L.png) ([pdf](zotero://open-pdf/groups/4789270/items/TKYRBWHH?page=9&annotation=H3R97DTC))  
+([Lyu et al., 2022, p. 1418](zotero://select/groups/4789270/items/AADWMPTY))
+
+![image](attachments/24STXH2L.png) ([pdf](zotero://open-pdf/groups/4789270/items/TKYRBWHH?page=9&annotation=4GJSIBP3))  
+([Lyu et al., 2022, p. 1418](zotero://select/groups/4789270/items/AADWMPTY))
+		   - 52263-DQ2UZAS6	   - ---
+itemNumber: '52263'
+itemKey: DQ2UZAS6
+tags: [visual-design]
+
+---
+
+![image](attachments/U6VA5REL.png) ([pdf](zotero://open-pdf/groups/4789270/items/4G7G9W6W?page=6&annotation=FQH83IU4))  
+([Dong et al., 2021, p. 522](zotero://select/groups/4789270/items/WF8BGWFG))
+
+![image](attachments/UEL5UQX7.png) ([pdf](zotero://open-pdf/groups/4789270/items/4G7G9W6W?page=6&annotation=44JAZEU8))  
+([Dong et al., 2021, p. 522](zotero://select/groups/4789270/items/WF8BGWFG))
+		   - 52271-IU33IJYX	   - ---
+itemNumber: '52271'
+itemKey: IU33IJYX
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 10:10:05 am)
+
+![image](attachments/NEUQTWAR.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=2&annotation=8QSXUDBF))  
+([Zheng et al., 2015, p. 1810](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/AMQLXG4A.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=3&annotation=VEGIE49F))  
+([Zheng et al., 2015, p. 1811](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/INQJYTSG.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=4&annotation=K626RAQN))  
+([Zheng et al., 2015, p. 1812](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/XEUKZ8SJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=4&annotation=GQ33RG82))  
+([Zheng et al., 2015, p. 1812](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/JZBR8V5K.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=4&annotation=SCGFWR64))  
+([Zheng et al., 2015, p. 1812](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/83TF7ZJW.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=5&annotation=YGXETE7J))  
+([Zheng et al., 2015, p. 1813](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/SK8NVNXD.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=5&annotation=M3KTP5XB))  
+([Zheng et al., 2015, p. 1813](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/5S566EMH.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=10&annotation=RSLMP7YP))  
+([Zheng et al., 2015, p. 1818](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/JDKDFZJK.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=10&annotation=MVH69QNP))  
+([Zheng et al., 2015, p. 1818](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/X5SMJYQ8.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=11&annotation=TFCB6M3N))  
+([Zheng et al., 2015, p. 1819](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/8PHK6DDS.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=11&annotation=CDLZS8WL))  
+([Zheng et al., 2015, p. 1819](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/44AC6BK3.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=11&annotation=PVJJ2W8G))  
+([Zheng et al., 2015, p. 1819](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/9WUE8JK3.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=11&annotation=TZRM2LKB))  
+([Zheng et al., 2015, p. 1819](zotero://select/groups/4789270/items/XC8DRJ3L))
+
+![image](attachments/RVTPCA7F.png) ([pdf](zotero://open-pdf/groups/4789270/items/A5P98LZI?page=12&annotation=DI5QQ66N))  
+([Zheng et al., 2015, p. 1820](zotero://select/groups/4789270/items/XC8DRJ3L))
+		   - 52305-AJFQRPIR	   - ---
+itemNumber: '52305'
+itemKey: AJFQRPIR
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 9:59:50 am)
+
+![image](attachments/9GZBHPJP.png) ([pdf](zotero://open-pdf/groups/4789270/items/FB4LDMI8?page=6&annotation=2SMXMCI3))  
+([Song and Jiang, 2022, p. 2673](zotero://select/groups/4789270/items/9MRR2Y5E))
+
+![image](attachments/CK4LQN3U.png) ([pdf](zotero://open-pdf/groups/4789270/items/FB4LDMI8?page=6&annotation=VPPHWPU6))  
+([Song and Jiang, 2022, p. 2673](zotero://select/groups/4789270/items/9MRR2Y5E))
+
+![image](attachments/5XQ2JNPL.png) ([pdf](zotero://open-pdf/groups/4789270/items/FB4LDMI8?page=7&annotation=9GAXAT7J))  
+([Song and Jiang, 2022, p. 2674](zotero://select/groups/4789270/items/9MRR2Y5E))
+		   - 52322-3ZVLSJUQ	   - ---
+itemNumber: '52322'
+itemKey: 3ZVLSJUQ
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 9:53:33 am)
+
+![image](attachments/QLJ6HNFX.png) ([pdf](zotero://open-pdf/groups/4789270/items/35QUQZ5Z?page=8&annotation=G88MS4YK))  
+([Azzam and Beckmann, 2022, p. 8](zotero://select/groups/4789270/items/9UA2Q9H9))
+
+![image](attachments/TSXULWWF.png) ([pdf](zotero://open-pdf/groups/4789270/items/35QUQZ5Z?page=9&annotation=CVLTCBJ5))  
+([Azzam and Beckmann, 2022, p. 9](zotero://select/groups/4789270/items/9UA2Q9H9))
+
+![image](attachments/X8ISBD6B.png) ([pdf](zotero://open-pdf/groups/4789270/items/35QUQZ5Z?page=10&annotation=LNZZVXHK))  
+([Azzam and Beckmann, 2022, p. 10](zotero://select/groups/4789270/items/9UA2Q9H9))
+		   - 52333-2WHYP6PV	   - ---
+itemNumber: '52333'
+itemKey: 2WHYP6PV
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 9:38:16 am)
+
+![image](attachments/XEBWGPME.png) ([pdf](zotero://open-pdf/groups/4789270/items/UKSUQR5S?page=4&annotation=IEYV9LPJ))  
+([Guo and Liu, 2019, p. 484](zotero://select/groups/4789270/items/ZXIAMGVF))
+
+![image](attachments/SXHZ69N2.png) ([pdf](zotero://open-pdf/groups/4789270/items/UKSUQR5S?page=5&annotation=GJ2CBCDI))  
+([Guo and Liu, 2019, p. 485](zotero://select/groups/4789270/items/ZXIAMGVF))
+		   - 52338-2PEJYNP8	   - ---
+itemNumber: '52338'
+itemKey: 2PEJYNP8
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 9:35:01 am)
+
+![image](attachments/Y77AKJYB.png) ([pdf](zotero://open-pdf/groups/4789270/items/GRYZ52BV?page=1&annotation=CX4R9PKU))  
+([Wan and Du, 2021, p. 4393](zotero://select/groups/4789270/items/ITCXJM4D))
+
+![image](attachments/TBVJ8ECP.png) ([pdf](zotero://open-pdf/groups/4789270/items/GRYZ52BV?page=2&annotation=4SD7FKHP))  
+([Wan and Du, 2021, p. 4394](zotero://select/groups/4789270/items/ITCXJM4D))
+
+![image](attachments/QKESGKSW.png) ([pdf](zotero://open-pdf/groups/4789270/items/GRYZ52BV?page=7&annotation=VK7VQZIT))  
+([Wan and Du, 2021, p. 4399](zotero://select/groups/4789270/items/ITCXJM4D))
+
+![image](attachments/4F3QBUEI.png) ([pdf](zotero://open-pdf/groups/4789270/items/GRYZ52BV?page=7&annotation=LLX24K9X))  
+([Wan and Du, 2021, p. 4399](zotero://select/groups/4789270/items/ITCXJM4D))
+		   - 52349-JPPGIKXS	   - ---
+itemNumber: '52349'
+itemKey: JPPGIKXS
+tags: [visual-design]
+
+---
+
+![image](attachments/Y8CFD74I.png) ([pdf](zotero://open-pdf/groups/4789270/items/6ELC7DPW?page=8&annotation=MFPVKW5C))  
+([Schoenke et al., 2021, p. 7](zotero://select/groups/4789270/items/MWYKH3ZT))
+
+![image](attachments/MQRD9BQ2.png) ([pdf](zotero://open-pdf/groups/4789270/items/6ELC7DPW?page=9&annotation=XQ3X2IDG))  
+([Schoenke et al., 2021, p. 8](zotero://select/groups/4789270/items/MWYKH3ZT))
+		   - 52360-2PPIW9FY	   - ---
+itemNumber: '52360'
+itemKey: 2PPIW9FY
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 9:26:28 am)
+
+![image](attachments/X6KXZUHJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/BKCBKTR5?page=3&annotation=LVF8MSRB))  
+([Jiang et al., 2022, p. 99](zotero://select/groups/4789270/items/XANSC2RC))
+
+![image](attachments/SXMQV6KM.png) ([pdf](zotero://open-pdf/groups/4789270/items/BKCBKTR5?page=5&annotation=RI23TXVV))  
+([Jiang et al., 2022, p. 101](zotero://select/groups/4789270/items/XANSC2RC))
+
+![image](attachments/9BPFIID4.png) ([pdf](zotero://open-pdf/groups/4789270/items/BKCBKTR5?page=5&annotation=Z7IM9Z3Z))  
+([Jiang et al., 2022, p. 101](zotero://select/groups/4789270/items/XANSC2RC))
+
+![image](attachments/2FX58LLB.png) ([pdf](zotero://open-pdf/groups/4789270/items/BKCBKTR5?page=9&annotation=KV2X2PJP))  
+([Jiang et al., 2022, p. 105](zotero://select/groups/4789270/items/XANSC2RC))
+
+![image](attachments/ICWCD96W.png) ([pdf](zotero://open-pdf/groups/4789270/items/BKCBKTR5?page=9&annotation=JCPX5D4E))  
+([Jiang et al., 2022, p. 105](zotero://select/groups/4789270/items/XANSC2RC))
+		   - 52371-KL2KS5RR	   - ---
+itemNumber: '52371'
+itemKey: KL2KS5RR
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 11:47:08 am)
+
+![image](attachments/97P9VXHJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/582ZH5IK?page=5&annotation=T3BCHSUN))  
+([Peng and Yu, 2021, p. 270](zotero://select/groups/4789270/items/4BCDABZN))
+
+![image](attachments/N3AJJMZT.png) ([pdf](zotero://open-pdf/groups/4789270/items/582ZH5IK?page=7&annotation=GQRD4KKK))  
+([Peng and Yu, 2021, p. 272](zotero://select/groups/4789270/items/4BCDABZN))
+
+![image](attachments/YY3EH2MS.png) ([pdf](zotero://open-pdf/groups/4789270/items/582ZH5IK?page=10&annotation=RJUQLK72))  
+([Peng and Yu, 2021, p. 275](zotero://select/groups/4789270/items/4BCDABZN))
+
+![image](attachments/SCIASPYN.png) ([pdf](zotero://open-pdf/groups/4789270/items/582ZH5IK?page=11&annotation=NBC2RFB8))  
+([Peng and Yu, 2021, p. 276](zotero://select/groups/4789270/items/4BCDABZN))
+
+![image](attachments/J4PBUJ3K.png) ([pdf](zotero://open-pdf/groups/4789270/items/582ZH5IK?page=11&annotation=82GVTQJG))  
+([Peng and Yu, 2021, p. 276](zotero://select/groups/4789270/items/4BCDABZN))
+		   - 52393-5C5YJVD9	   - ---
+itemNumber: '52393'
+itemKey: 5C5YJVD9
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 11:26:11 am)
+
+![image](attachments/HAGLLAK2.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZWVNAI6A?page=3&annotation=L2PGI37H))  
+([Wang et al., 2017, p. 2726](zotero://select/groups/4789270/items/AFDK7A8Y))
+
+![image](attachments/FDMFRG2F.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZWVNAI6A?page=6&annotation=U7K3UJS9))  
+([Wang et al., 2017, p. 2729](zotero://select/groups/4789270/items/AFDK7A8Y))
+
+![image](attachments/GT68GL8X.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZWVNAI6A?page=6&annotation=ZRRAC5H9))  
+([Wang et al., 2017, p. 2729](zotero://select/groups/4789270/items/AFDK7A8Y))
+
+![image](attachments/QYYNJA5Y.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZWVNAI6A?page=11&annotation=GFNN87E5))  
+([Wang et al., 2017, p. 2734](zotero://select/groups/4789270/items/AFDK7A8Y))
+
+![image](attachments/LD2BUFQ9.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZWVNAI6A?page=12&annotation=EKKKYNXT))  
+([Wang et al., 2017, p. 2735](zotero://select/groups/4789270/items/AFDK7A8Y))
+
+![image](attachments/A3PZYVQ7.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZWVNAI6A?page=13&annotation=MFVSXEI6))  
+([Wang et al., 2017, p. 2736](zotero://select/groups/4789270/items/AFDK7A8Y))
+
+![image](attachments/PMZN9JWE.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZWVNAI6A?page=16&annotation=7KHNGPEA))  
+([Wang et al., 2017, p. 2739](zotero://select/groups/4789270/items/AFDK7A8Y))
+		   - 52408-TAJL2VYG	   - ---
+itemNumber: '52408'
+itemKey: TAJL2VYG
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 11:00:01 am)
+
+![image](attachments/8PFTYDFX.png) ([pdf](zotero://open-pdf/groups/4789270/items/L566UNCL?page=2&annotation=JM8MXWLG))  
+([Tian et al., 2022, p. 2](zotero://select/groups/4789270/items/ERERRBFP))
+
+![image](attachments/6WNWPYPR.png) ([pdf](zotero://open-pdf/groups/4789270/items/L566UNCL?page=3&annotation=3SB2KDCW))  
+([Tian et al., 2022, p. 3](zotero://select/groups/4789270/items/ERERRBFP))
+
+![image](attachments/Q3YVUL4M.png) ([pdf](zotero://open-pdf/groups/4789270/items/L566UNCL?page=5&annotation=YLVNPCUH))  
+([Tian et al., 2022, p. 5](zotero://select/groups/4789270/items/ERERRBFP))
+
+![image](attachments/UUDH6Y3B.png) ([pdf](zotero://open-pdf/groups/4789270/items/L566UNCL?page=7&annotation=ITK6HHFA))  
+([Tian et al., 2022, p. 7](zotero://select/groups/4789270/items/ERERRBFP))
+
+![image](attachments/S6CDJNTZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/L566UNCL?page=9&annotation=UZHQYCZN))  
+([Tian et al., 2022, p. 9](zotero://select/groups/4789270/items/ERERRBFP))
+
+![image](attachments/ED5KGZS5.png) ([pdf](zotero://open-pdf/groups/4789270/items/L566UNCL?page=9&annotation=GRY7DECI))  
+([Tian et al., 2022, p. 9](zotero://select/groups/4789270/items/ERERRBFP))
+
+![image](attachments/VS8M37C8.png) ([pdf](zotero://open-pdf/groups/4789270/items/L566UNCL?page=13&annotation=MG76GI6H))  
+([Tian et al., 2022, p. 13](zotero://select/groups/4789270/items/ERERRBFP))
+		   - 52427-CRBHR68S	   - ---
+itemNumber: '52427'
+itemKey: CRBHR68S
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 10:52:59 am)
+
+![image](attachments/IYPGV38E.png) ([pdf](zotero://open-pdf/groups/4789270/items/DBZ2JV7Q?page=6&annotation=BQU3A5WK))  
+([Xie et al., 2022, p. 6](zotero://select/groups/4789270/items/CG9HZ9AZ))
+
+![image](attachments/JYYNVZ76.png) ([pdf](zotero://open-pdf/groups/4789270/items/DBZ2JV7Q?page=8&annotation=T9GX4DIY))  
+([Xie et al., 2022, p. 8](zotero://select/groups/4789270/items/CG9HZ9AZ))
+
+![image](attachments/AWL9GWD4.png) ([pdf](zotero://open-pdf/groups/4789270/items/DBZ2JV7Q?page=9&annotation=XIL3CQJY))  
+([Xie et al., 2022, p. 9](zotero://select/groups/4789270/items/CG9HZ9AZ))
+
+![image](attachments/VTB5CBUB.png) ([pdf](zotero://open-pdf/groups/4789270/items/DBZ2JV7Q?page=10&annotation=NRVI2S53))  
+([Xie et al., 2022, p. 10](zotero://select/groups/4789270/items/CG9HZ9AZ))
+
+![image](attachments/9QW3MRKR.png) ([pdf](zotero://open-pdf/groups/4789270/items/DBZ2JV7Q?page=13&annotation=P4TDCY4I))  
+([Xie et al., 2022, p. 13](zotero://select/groups/4789270/items/CG9HZ9AZ))
+
+![image](attachments/WSXZWQYG.png) ([pdf](zotero://open-pdf/groups/4789270/items/DBZ2JV7Q?page=25&annotation=AYBVPRPU))  
+([Xie et al., 2022, p. 25](zotero://select/groups/4789270/items/CG9HZ9AZ))
+
+![image](attachments/VTS9WN7H.png) ([pdf](zotero://open-pdf/groups/4789270/items/DBZ2JV7Q?page=25&annotation=5UVPS4P9))  
+([Xie et al., 2022, p. 25](zotero://select/groups/4789270/items/CG9HZ9AZ))
+		   - 52448-76P5EX83	   - ---
+itemNumber: '52448'
+itemKey: 76P5EX83
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 10:41:04 am)
+
+![image](attachments/NWYA5IMF.png) ([pdf](zotero://open-pdf/groups/4789270/items/89BC4NBD?page=5&annotation=VWUFCQIN))  
+([Yu et al., 2022, p. 5](zotero://select/groups/4789270/items/7EZI8CWQ))
+
+![image](attachments/9SRWIJDW.png) ([pdf](zotero://open-pdf/groups/4789270/items/89BC4NBD?page=6&annotation=H3MKJKUV))  
+([Yu et al., 2022, p. 6](zotero://select/groups/4789270/items/7EZI8CWQ))
+
+![image](attachments/L3ICYEIW.png) ([pdf](zotero://open-pdf/groups/4789270/items/89BC4NBD?page=6&annotation=76XXQJMP))  
+([Yu et al., 2022, p. 6](zotero://select/groups/4789270/items/7EZI8CWQ))
+
+![image](attachments/ZTW69J2G.png) ([pdf](zotero://open-pdf/groups/4789270/items/89BC4NBD?page=7&annotation=F2GGD8AU))  
+([Yu et al., 2022, p. 7](zotero://select/groups/4789270/items/7EZI8CWQ))
+		   - 52462-IPPNXGNM	   - ---
+itemNumber: '52462'
+itemKey: IPPNXGNM
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:14:18 pm)
+
+![image](attachments/2779JRPA.png) ([pdf](zotero://open-pdf/groups/4789270/items/5G323TMK?page=21&annotation=IMMIEFMX))  
+([Goodwin and Harabagiu, 2016, p. 21](zotero://select/groups/4789270/items/24IPU2W7))
+
+![image](attachments/NRRWW4ED.png) ([pdf](zotero://open-pdf/groups/4789270/items/5G323TMK?page=22&annotation=7F46LGG9))  
+([Goodwin and Harabagiu, 2016, p. 22](zotero://select/groups/4789270/items/24IPU2W7))
+
+![image](attachments/YRW8FVB9.png) ([pdf](zotero://open-pdf/groups/4789270/items/5G323TMK?page=23&annotation=JMJLHFFF))  
+([Goodwin and Harabagiu, 2016, p. 23](zotero://select/groups/4789270/items/24IPU2W7))
+
+![image](attachments/3RP33XRA.png) ([pdf](zotero://open-pdf/groups/4789270/items/5G323TMK?page=24&annotation=LLDEI2HD))  
+([Goodwin and Harabagiu, 2016, p. 24](zotero://select/groups/4789270/items/24IPU2W7))
+
+![image](attachments/WKRZIB78.png) ([pdf](zotero://open-pdf/groups/4789270/items/5G323TMK?page=25&annotation=KRLG8C55))  
+([Goodwin and Harabagiu, 2016, p. 25](zotero://select/groups/4789270/items/24IPU2W7))
+		   - 52475-GJYRVVXB	   - ---
+itemNumber: '52475'
+itemKey: GJYRVVXB
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:09:32 pm)
+
+![image](attachments/LBZMIZXH.png) ([pdf](zotero://open-pdf/groups/4789270/items/UUSPSEMI?page=3&annotation=67KPU8HK))  
+([Xia et al., 2021, p. 3767](zotero://select/groups/4789270/items/K46P9A3E))
+
+![image](attachments/XVPRBSEP.png) ([pdf](zotero://open-pdf/groups/4789270/items/UUSPSEMI?page=7&annotation=GHRXZFNR))  
+([Xia et al., 2021, p. 3771](zotero://select/groups/4789270/items/K46P9A3E))
+
+![image](attachments/WSZWIZF2.png) ([pdf](zotero://open-pdf/groups/4789270/items/UUSPSEMI?page=8&annotation=RNNYQ9JT))  
+([Xia et al., 2021, p. 3772](zotero://select/groups/4789270/items/K46P9A3E))
+
+![image](attachments/8HR7ZGF9.png) ([pdf](zotero://open-pdf/groups/4789270/items/UUSPSEMI?page=10&annotation=3H3MKM55))  
+([Xia et al., 2021, p. 3774](zotero://select/groups/4789270/items/K46P9A3E))
+
+![image](attachments/4CHYFU5R.png) ([pdf](zotero://open-pdf/groups/4789270/items/UUSPSEMI?page=10&annotation=D3SS5LWR))  
+([Xia et al., 2021, p. 3774](zotero://select/groups/4789270/items/K46P9A3E))
+		   - 52486-VCRSWZ34	   - ---
+itemNumber: '52486'
+itemKey: VCRSWZ34
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 12:57:41 pm)
+
+![image](attachments/ECM7DPWH.png) ([pdf](zotero://open-pdf/groups/4789270/items/9A3CUAKI?page=5&annotation=RTX5S73Q))  
+([Ludolph et al., 2016, p. 5](zotero://select/groups/4789270/items/WUJUHAAH))
+
+![image](attachments/EY7M86ST.png) ([pdf](zotero://open-pdf/groups/4789270/items/9A3CUAKI?page=6&annotation=9YAS9QUT))  
+([Ludolph et al., 2016, p. 6](zotero://select/groups/4789270/items/WUJUHAAH))
+
+![image](attachments/SBD2XPW3.png) ([pdf](zotero://open-pdf/groups/4789270/items/9A3CUAKI?page=9&annotation=BX27SLYS))  
+([Ludolph et al., 2016, p. 9](zotero://select/groups/4789270/items/WUJUHAAH))
+
+![image](attachments/TCMLQ6BJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/9A3CUAKI?page=11&annotation=LNK8F7FS))  
+([Ludolph et al., 2016, p. 11](zotero://select/groups/4789270/items/WUJUHAAH))
+
+![image](attachments/UYZZM2IN.png) ([pdf](zotero://open-pdf/groups/4789270/items/9A3CUAKI?page=12&annotation=VJQPKDUP))  
+([Ludolph et al., 2016, p. 12](zotero://select/groups/4789270/items/WUJUHAAH))
+
+![image](attachments/6SU96HTF.png) ([pdf](zotero://open-pdf/groups/4789270/items/9A3CUAKI?page=12&annotation=MVFIUXCB))  
+([Ludolph et al., 2016, p. 12](zotero://select/groups/4789270/items/WUJUHAAH))
+		   - 52506-IZQZ6HJZ	   - ---
+itemNumber: '52506'
+itemKey: IZQZ6HJZ
+tags: [visual-design]
+
+---
+
+![image](attachments/9JVCBAM6.png) ([pdf](zotero://open-pdf/groups/4789270/items/DDK77RMN?page=8&annotation=C9RNS4JT))  
+([Nayyeri et al., 2021, p. 8](zotero://select/groups/4789270/items/N9MUHYRD))
+		   - 52514-UM3CY5CT	   - ---
+itemNumber: '52514'
+itemKey: UM3CY5CT
+tags: [visual-design]
+
+---
+
+![image](attachments/M83YLSTA.png) ([pdf](zotero://open-pdf/groups/4789270/items/EG99HQSW?page=4&annotation=4GZ5NQ6J))  
+([Boman et al., 2019, p. 478](zotero://select/groups/4789270/items/TEMCTYB3))
+		   - 52519-FDZEYC4X	   - ---
+itemNumber: '52519'
+itemKey: FDZEYC4X
+tags: [visual-design]
+
+---
+
+![image](attachments/J9SG27E2.png) ([pdf](zotero://open-pdf/groups/4789270/items/U4TNT5PX?page=3&annotation=R5X3XH3G))  
+([Yang and Tang, 2021, p. 39](zotero://select/groups/4789270/items/9HFE5TFS))
+		   - 52528-FTJXT2LJ	   - ---
+itemNumber: '52528'
+itemKey: FTJXT2LJ
+tags: [visual-design,visual-designaim]
+
+---
+
+# Annotations  
+(24/11/2022, 12:08:44 pm)
+
+![image](attachments/KDEPT5ZD.png) ([pdf](zotero://open-pdf/groups/4789270/items/FKXB2G77?page=3&annotation=Q3Q3GKEY))  
+([Rotmensch et al., 2017, p. 3](zotero://select/groups/4789270/items/HGJ7EC8Z))
+
+![image](attachments/AA7CFRUG.png) ([pdf](zotero://open-pdf/groups/4789270/items/FKXB2G77?page=4&annotation=275LMYI6))  
+([Rotmensch et al., 2017, p. 4](zotero://select/groups/4789270/items/HGJ7EC8Z))
+
+![image](attachments/JJJ5RZAC.png) ([pdf](zotero://open-pdf/groups/4789270/items/FKXB2G77?page=6&annotation=HHEV9AQ5))  
+([Rotmensch et al., 2017, p. 6](zotero://select/groups/4789270/items/HGJ7EC8Z))
+
+![image](attachments/H99BJC5T.png) ([pdf](zotero://open-pdf/groups/4789270/items/FKXB2G77?page=8&annotation=F3RBNQIW))  
+([Rotmensch et al., 2017, p. 8](zotero://select/groups/4789270/items/HGJ7EC8Z))
+
+![image](attachments/4QXHXB26.png) ([pdf](zotero://open-pdf/groups/4789270/items/FKXB2G77?page=8&annotation=3CPG69W8))  
+([Rotmensch et al., 2017, p. 8](zotero://select/groups/4789270/items/HGJ7EC8Z))
+
+![image](attachments/U35W56L9.png) ([pdf](zotero://open-pdf/groups/4789270/items/FKXB2G77?page=9&annotation=DL5PI8RY))  
+([Rotmensch et al., 2017, p. 9](zotero://select/groups/4789270/items/HGJ7EC8Z))
+
+![image](attachments/KPBPBBUG.png) ([pdf](zotero://open-pdf/groups/4789270/items/FKXB2G77?page=10&annotation=YCQJ2TQ6))  
+([Rotmensch et al., 2017, p. 10](zotero://select/groups/4789270/items/HGJ7EC8Z))
+		   - 52547-3EG8LAN4	   - ---
+itemNumber: '52547'
+itemKey: 3EG8LAN4
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 11:58:55 am)
+
+![image](attachments/PJK7JF49.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=7&annotation=NJTNYQ3H))  
+([Loseto et al., 2020, p. 7](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/CDEJSR5T.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=8&annotation=KHFTZG9G))  
+([Loseto et al., 2020, p. 8](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/4QC6INM4.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=8&annotation=3NC4LN36))  
+([Loseto et al., 2020, p. 8](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/H7FZPQKS.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=9&annotation=6CQQ83RQ))  
+([Loseto et al., 2020, p. 9](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/WDK8AYG7.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=10&annotation=M8XM8UL5))  
+([Loseto et al., 2020, p. 10](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/TJPIX8LW.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=10&annotation=STTL2DD6))  
+([Loseto et al., 2020, p. 10](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/GSR2BS3I.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=11&annotation=F8I69JIN))  
+([Loseto et al., 2020, p. 11](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/98UHYI8D.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=13&annotation=6HD4S5IK))  
+([Loseto et al., 2020, p. 13](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/C3GUCZG7.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=14&annotation=S9IKGNKT))  
+([Loseto et al., 2020, p. 14](zotero://select/groups/4789270/items/BDGJMEKD))
+
+![image](attachments/4W6JY92W.png) ([pdf](zotero://open-pdf/groups/4789270/items/GJ2M3MD4?page=15&annotation=ZE25CMA8))  
+([Loseto et al., 2020, p. 15](zotero://select/groups/4789270/items/BDGJMEKD))
+		   - 52560-84QPL3U7	   - ---
+itemNumber: '52560'
+itemKey: 84QPL3U7
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 3:35:10 pm)
+
+![image](attachments/ULEKFJCW.png) ([pdf](zotero://open-pdf/groups/4789270/items/RSVQNZIG?page=6&annotation=QRDUVAI8))  
+([Haas and Unkel, 2017, p. 1289](zotero://select/groups/4789270/items/LVBTK8TP))
+
+![image](attachments/B5DY7NWU.png) ([pdf](zotero://open-pdf/groups/4789270/items/RSVQNZIG?page=7&annotation=82Y9X4LB))  
+([Haas and Unkel, 2017, p. 1290](zotero://select/groups/4789270/items/LVBTK8TP))
+
+![image](attachments/SQZDR97B.png) ([pdf](zotero://open-pdf/groups/4789270/items/RSVQNZIG?page=9&annotation=TULQW526))  
+([Haas and Unkel, 2017, p. 1292](zotero://select/groups/4789270/items/LVBTK8TP))
+
+![image](attachments/J9R22AMK.png) ([pdf](zotero://open-pdf/groups/4789270/items/RSVQNZIG?page=9&annotation=J4UHRY33))  
+([Haas and Unkel, 2017, p. 1292](zotero://select/groups/4789270/items/LVBTK8TP))
+		   - 52572-BDFF59DX	   - ---
+itemNumber: '52572'
+itemKey: BDFF59DX
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 3:30:38 pm)
+
+![image](attachments/34L4SUKG.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=2&annotation=SXQXI2KH))  
+([Tay et al., 2017, p. 752](zotero://select/groups/4789270/items/UPFZ5NWV))
+
+![image](attachments/22F7V9EN.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=4&annotation=HKQE5IG8))  
+([Tay et al., 2017, p. 754](zotero://select/groups/4789270/items/UPFZ5NWV))
+
+![image](attachments/GETQ4WI2.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=5&annotation=PQ8KHPGP))  
+([Tay et al., 2017, p. 755](zotero://select/groups/4789270/items/UPFZ5NWV))
+
+![image](attachments/EPS3IXUJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=7&annotation=58E595C4))  
+([Tay et al., 2017, p. 757](zotero://select/groups/4789270/items/UPFZ5NWV))
+
+![image](attachments/3VP32ZIS.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=8&annotation=E3RJ8MJV))  
+([Tay et al., 2017, p. 758](zotero://select/groups/4789270/items/UPFZ5NWV))
+
+![image](attachments/NZ6KWKIK.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=8&annotation=G42CDHM4))  
+([Tay et al., 2017, p. 758](zotero://select/groups/4789270/items/UPFZ5NWV))
+
+![image](attachments/JWQW9Z8R.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=8&annotation=US5GCKS9))  
+([Tay et al., 2017, p. 758](zotero://select/groups/4789270/items/UPFZ5NWV))
+
+![image](attachments/YQYMZSGT.png) ([pdf](zotero://open-pdf/groups/4789270/items/UL2YXWC6?page=8&annotation=RPBHT7UH))  
+([Tay et al., 2017, p. 758](zotero://select/groups/4789270/items/UPFZ5NWV))
+		   - 52612-HYGTSVPP	   - ---
+itemNumber: '52612'
+itemKey: HYGTSVPP
+tags: [visual-design]
+
+---
+
+![image](attachments/M5IR4S9I.png) ([pdf](zotero://open-pdf/groups/4789270/items/M7KUP4HP?page=4&annotation=2L3BXE5Z))  
+([Qu and Tang, 2019, p. 4](zotero://select/groups/4789270/items/69T4DEL2))
+		   - 52615-D7BLB9D2	   - ---
+itemNumber: '52615'
+itemKey: D7BLB9D2
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 3:15:10 pm)
+
+![image](attachments/64GX853P.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=3&annotation=TVHSP8WQ))  
+([Wang et al., 2021, p. 3](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/DM53E5SH.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=4&annotation=KFPTHFMI))  
+([Wang et al., 2021, p. 4](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/YNSXDCBY.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=5&annotation=MSIIAK58))  
+([Wang et al., 2021, p. 5](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/7EBEFF9H.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=6&annotation=KD2Y8UX2))  
+([Wang et al., 2021, p. 6](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/DGSIY4DF.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=6&annotation=PKJ8T536))  
+([Wang et al., 2021, p. 6](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/BWLSV3U6.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=7&annotation=75GC269D))  
+([Wang et al., 2021, p. 7](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/K8I2FYII.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=8&annotation=NLBGZEHH))  
+([Wang et al., 2021, p. 8](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/SUTUBC37.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=9&annotation=RW8TSHNK))  
+([Wang et al., 2021, p. 9](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/GEME9MLG.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=9&annotation=M6SM87JL))  
+([Wang et al., 2021, p. 9](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/QJNSXYKD.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=10&annotation=UWFE3MCY))  
+([Wang et al., 2021, p. 10](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/ENZKTQDT.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=10&annotation=7PFFYQE2))  
+([Wang et al., 2021, p. 10](zotero://select/groups/4789270/items/PM89SSVV))
+
+![image](attachments/2HKQ54T9.png) ([pdf](zotero://open-pdf/groups/4789270/items/QGTESZZF?page=10&annotation=CSKQ83VK))  
+([Wang et al., 2021, p. 10](zotero://select/groups/4789270/items/PM89SSVV))
+		   - 52646-BN8KU5T3	   - ---
+itemNumber: '52646'
+itemKey: BN8KU5T3
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 3:09:53 pm)
+
+![image](attachments/KRMK73UG.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=4&annotation=XDXSG6EL))  
+([Weltevrede and Borra, 2016, p. 4](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/FSQW23NN.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=6&annotation=MPUN79YE))  
+([Weltevrede and Borra, 2016, p. 6](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/6FHKRDYM.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=7&annotation=FBR7HSIM))  
+([Weltevrede and Borra, 2016, p. 7](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/XE2QTB7F.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=8&annotation=PX84HZTN))  
+([Weltevrede and Borra, 2016, p. 8](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/S9YHTVVB.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=8&annotation=UUDSIE8N))  
+([Weltevrede and Borra, 2016, p. 8](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/ZN5BIPTP.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=9&annotation=QPKIVI9B))  
+([Weltevrede and Borra, 2016, p. 9](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/YKE9JHV7.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=9&annotation=5CYNMB8K))  
+([Weltevrede and Borra, 2016, p. 9](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/MXW8R6EP.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=9&annotation=TU23AZBX))  
+([Weltevrede and Borra, 2016, p. 9](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/BK6UIINK.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=10&annotation=H877M8VB))  
+([Weltevrede and Borra, 2016, p. 10](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/HPA6C87D.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=10&annotation=GBL7V78T))  
+([Weltevrede and Borra, 2016, p. 10](zotero://select/groups/4789270/items/AKC7JSS8))
+
+![image](attachments/PZV4A9LC.png) ([pdf](zotero://open-pdf/groups/4789270/items/DZIBSHIZ?page=11&annotation=AR6FIP4B))  
+([Weltevrede and Borra, 2016, p. 11](zotero://select/groups/4789270/items/AKC7JSS8))
+		   - 52671-M6XN3I5R	   - ---
+itemNumber: '52671'
+itemKey: M6XN3I5R
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:49:48 pm)
+
+![image](attachments/IA3CGMV7.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=2&annotation=4L329BLD))  
+([Lin et al., 2020, p. 156664](zotero://select/groups/4789270/items/ZAFR7LNU))
+
+![image](attachments/NGFIL6GK.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=4&annotation=V8YVTVUA))  
+([Lin et al., 2020, p. 156666](zotero://select/groups/4789270/items/ZAFR7LNU))
+
+![image](attachments/77DIP9TZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=4&annotation=NGGNA7TS))  
+([Lin et al., 2020, p. 156666](zotero://select/groups/4789270/items/ZAFR7LNU))
+
+![image](attachments/M6CCBFCF.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=7&annotation=8QJ5ZMRW))  
+([Lin et al., 2020, p. 156669](zotero://select/groups/4789270/items/ZAFR7LNU))
+
+![image](attachments/LV9GNNPW.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=11&annotation=DKQYK626))  
+([Lin et al., 2020, p. 156673](zotero://select/groups/4789270/items/ZAFR7LNU))
+
+![image](attachments/HIAD3KKM.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=12&annotation=5C48H6M3))  
+([Lin et al., 2020, p. 156674](zotero://select/groups/4789270/items/ZAFR7LNU))
+
+![image](attachments/MU7F58AS.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=12&annotation=TXVP9LAK))  
+([Lin et al., 2020, p. 156674](zotero://select/groups/4789270/items/ZAFR7LNU))
+
+![image](attachments/XHMZITPW.png) ([pdf](zotero://open-pdf/groups/4789270/items/QZBAWVRI?page=12&annotation=7R3ZFKS7))  
+([Lin et al., 2020, p. 156674](zotero://select/groups/4789270/items/ZAFR7LNU))
+		   - 52691-ELC4DPIT	   - ---
+itemNumber: '52691'
+itemKey: ELC4DPIT
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:45:19 pm)
+
+![image](attachments/XGD25VKQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/AAW3QRS6?page=3&annotation=VX3ANWLI))  
+([Chen et al., 2021, p. 4021](zotero://select/groups/4789270/items/74EM79S3))
+
+![image](attachments/G4UPMWQ8.png) ([pdf](zotero://open-pdf/groups/4789270/items/AAW3QRS6?page=4&annotation=46CHZTI6))  
+([Chen et al., 2021, p. 4022](zotero://select/groups/4789270/items/74EM79S3))
+		   - 52703-RVZIZAWW	   - ---
+itemNumber: '52703'
+itemKey: RVZIZAWW
+tags: [visual-design,visual-designcontr]
+
+---
+
+# Annotations  
+(24/11/2022, 2:38:49 pm)
+
+![image](attachments/Q58KA243.png) ([pdf](zotero://open-pdf/groups/4789270/items/V9LJWYLY?page=3&annotation=VPD4GYFK))  
+([Hong et al., 2018, p. 89](zotero://select/groups/4789270/items/GNNFKSMY))
+
+![image](attachments/WLRPELZG.png) ([pdf](zotero://open-pdf/groups/4789270/items/V9LJWYLY?page=4&annotation=NTDSZPM7))  
+([Hong et al., 2018, p. 90](zotero://select/groups/4789270/items/GNNFKSMY))
+
+![image](attachments/LQXDWB7U.png) ([pdf](zotero://open-pdf/groups/4789270/items/V9LJWYLY?page=7&annotation=G29B67RC))  
+([Hong et al., 2018, p. 93](zotero://select/groups/4789270/items/GNNFKSMY))
+		   - 52710-U3DQ58IG	   - ---
+itemNumber: '52710'
+itemKey: U3DQ58IG
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:35:50 pm)
+
+![image](attachments/DHWSI2JK.png) ([pdf](zotero://open-pdf/groups/4789270/items/S8WXALR5?page=2&annotation=FH5ERCGE))  
+([Pujara et al., 2013, p. 20](zotero://select/groups/4789270/items/UZKYW2MK))
+
+![image](attachments/VIDURWH3.png) ([pdf](zotero://open-pdf/groups/4789270/items/S8WXALR5?page=3&annotation=8V6UB9GA))  
+([Pujara et al., 2013, p. 21](zotero://select/groups/4789270/items/UZKYW2MK))
+
+![image](attachments/QZDGJPIZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/S8WXALR5?page=4&annotation=EPS3NQAZ))  
+([Pujara et al., 2013, p. 22](zotero://select/groups/4789270/items/UZKYW2MK))
+		   - 52720-6RIMK89M	   - ---
+itemNumber: '52720'
+itemKey: 6RIMK89M
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:31:29 pm)
+
+![image](attachments/QW63USSD.png) ([pdf](zotero://open-pdf/groups/4789270/items/DNUQVK6N?page=3&annotation=C843FVM7))  
+([Vossen et al., 2014, p. 2002](zotero://select/groups/4789270/items/JI4D5GU9))
+
+![image](attachments/CCG3XMJ3.png) ([pdf](zotero://open-pdf/groups/4789270/items/DNUQVK6N?page=3&annotation=JF2EL5V4))  
+([Vossen et al., 2014, p. 2002](zotero://select/groups/4789270/items/JI4D5GU9))
+
+![image](attachments/GSQJATCB.png) ([pdf](zotero://open-pdf/groups/4789270/items/DNUQVK6N?page=5&annotation=DNLXA4CQ))  
+([Vossen et al., 2014, p. 2004](zotero://select/groups/4789270/items/JI4D5GU9))
+
+![image](attachments/T3ITKDEW.png) ([pdf](zotero://open-pdf/groups/4789270/items/DNUQVK6N?page=6&annotation=9MMHY8XJ))  
+([Vossen et al., 2014, p. 2005](zotero://select/groups/4789270/items/JI4D5GU9))
+
+![image](attachments/9YV8TW8Z.png) ([pdf](zotero://open-pdf/groups/4789270/items/DNUQVK6N?page=6&annotation=249ST458))  
+([Vossen et al., 2014, p. 2005](zotero://select/groups/4789270/items/JI4D5GU9))
+
+![image](attachments/AWDA27H7.png) ([pdf](zotero://open-pdf/groups/4789270/items/DNUQVK6N?page=8&annotation=VEKWJ2R9))  
+([Vossen et al., 2014, p. 2007](zotero://select/groups/4789270/items/JI4D5GU9))
+		   - 52735-L84ER459	   - ---
+itemNumber: '52735'
+itemKey: L84ER459
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:26:04 pm)
+
+![image](attachments/UVWWV6J8.png) ([pdf](zotero://open-pdf/groups/4789270/items/NJ9BBGZY?page=2&annotation=NYAW82BX))  
+([Park et al., 2020, p. 504](zotero://select/groups/4789270/items/E4PP6AVL))
+
+![image](attachments/5QR276XK.png) ([pdf](zotero://open-pdf/groups/4789270/items/NJ9BBGZY?page=3&annotation=ZJS8RYN8))  
+([Park et al., 2020, p. 505](zotero://select/groups/4789270/items/E4PP6AVL))
+
+![image](attachments/EDBTVX8K.png) ([pdf](zotero://open-pdf/groups/4789270/items/NJ9BBGZY?page=5&annotation=E48ZF6EN))  
+([Park et al., 2020, p. 507](zotero://select/groups/4789270/items/E4PP6AVL))
+
+![image](attachments/VTSMJ2PG.png) ([pdf](zotero://open-pdf/groups/4789270/items/NJ9BBGZY?page=7&annotation=B9JQGST9))  
+([Park et al., 2020, p. 509](zotero://select/groups/4789270/items/E4PP6AVL))
+
+![image](attachments/XG3FBDQN.png) ([pdf](zotero://open-pdf/groups/4789270/items/NJ9BBGZY?page=9&annotation=LUPVTQXA))  
+([Park et al., 2020, p. 511](zotero://select/groups/4789270/items/E4PP6AVL))
+		   - 52751-4IEXLGGS	   - ---
+itemNumber: '52751'
+itemKey: 4IEXLGGS
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 2:19:05 pm)
+
+![image](attachments/6L96FVRH.png) ([pdf](zotero://open-pdf/groups/4789270/items/EMHKL9IZ?page=1&annotation=2Z4TIFQC))  
+([Fabbri et al., 2021, p. 1](zotero://select/groups/4789270/items/27BF9ATA))
+
+![image](attachments/6K6B6FH5.png) ([pdf](zotero://open-pdf/groups/4789270/items/EMHKL9IZ?page=4&annotation=SWBYCY2V))  
+([Fabbri et al., 2021, p. 4](zotero://select/groups/4789270/items/27BF9ATA))
+
+![image](attachments/UK2RF4C4.png) ([pdf](zotero://open-pdf/groups/4789270/items/EMHKL9IZ?page=10&annotation=JFQDW9W4))  
+([Fabbri et al., 2021, p. 10](zotero://select/groups/4789270/items/27BF9ATA))
+
+![image](attachments/Q729HCAP.png) ([pdf](zotero://open-pdf/groups/4789270/items/EMHKL9IZ?page=10&annotation=LET4R2TW))  
+([Fabbri et al., 2021, p. 10](zotero://select/groups/4789270/items/27BF9ATA))
+		   - 52803-GG2KNWKP	   - ---
+itemNumber: '52803'
+itemKey: GG2KNWKP
+tags: [visual-design]
+
+---
+
+![image](attachments/3TXNKWXV.png) ([pdf](zotero://open-pdf/groups/4789270/items/AGDSGHRT?page=5&annotation=FSHVB4EJ))  
+([Xiong et al., 2017, p. 767](zotero://select/groups/4789270/items/YH3FCDNF))
+
+![image](attachments/V52JUV2H.png) ([pdf](zotero://open-pdf/groups/4789270/items/AGDSGHRT?page=8&annotation=3FEQUG48))  
+([Xiong et al., 2017, p. 770](zotero://select/groups/4789270/items/YH3FCDNF))
+
+![image](attachments/XV9WMCXI.png) ([pdf](zotero://open-pdf/groups/4789270/items/AGDSGHRT?page=9&annotation=QWV3R4GQ))  
+([Xiong et al., 2017, p. 771](zotero://select/groups/4789270/items/YH3FCDNF))
+		   - 52822-H8GVSN5M	   - ---
+itemNumber: '52822'
+itemKey: H8GVSN5M
+tags: [visual-design]
+
+---
+
+![image](attachments/C6FTEZYN.png) ([pdf](zotero://open-pdf/groups/4789270/items/CS674ZPN?page=16&annotation=L9N96MKK))  
+([Vasantavada et al., 2022, p. 16](zotero://select/groups/4789270/items/S4GGVUSA))
+
+![image](attachments/F6ASWBJT.png) ([pdf](zotero://open-pdf/groups/4789270/items/CS674ZPN?page=17&annotation=Z8MCIU4A))  
+([Vasantavada et al., 2022, p. 17](zotero://select/groups/4789270/items/S4GGVUSA))
+
+![image](attachments/3DBVEBF8.png) ([pdf](zotero://open-pdf/groups/4789270/items/CS674ZPN?page=18&annotation=76LR554G))  
+([Vasantavada et al., 2022, p. 18](zotero://select/groups/4789270/items/S4GGVUSA))
+		   - 52836-IGRI7VN2	   - ---
+itemNumber: '52836'
+itemKey: IGRI7VN2
+tags: [visual-design]
+
+---
+
+![image](attachments/7KPI25TR.png) ([pdf](zotero://open-pdf/groups/4789270/items/FARVNVES?page=4&annotation=B238X8X4))  
+([Sun and Zhang, 2019, p. 342](zotero://select/groups/4789270/items/ZB6TH9VD))
+		   - 52842-GS6UCU7Q	   - ---
+itemNumber: '52842'
+itemKey: GS6UCU7Q
+tags: [visual-design]
+
+---
+
+# Annotations  
+(25/11/2022, 9:21:10 am)
+
+![image](attachments/DXYXX5J5.png) ([pdf](zotero://open-pdf/groups/4789270/items/J8WF4RUC?page=3&annotation=I4UILLHS))  
+([Rivas et al., 2020, p. 3](zotero://select/groups/4789270/items/9I3YCPBF))
+
+![image](attachments/VIJNBLC8.png) ([pdf](zotero://open-pdf/groups/4789270/items/J8WF4RUC?page=5&annotation=FVAMVYVA))  
+([Rivas et al., 2020, p. 5](zotero://select/groups/4789270/items/9I3YCPBF))
+
+![image](attachments/TDEX3MJH.png) ([pdf](zotero://open-pdf/groups/4789270/items/J8WF4RUC?page=6&annotation=IXUDP7NZ))  
+([Rivas et al., 2020, p. 6](zotero://select/groups/4789270/items/9I3YCPBF))
+
+![image](attachments/VK4U6VHU.png) ([pdf](zotero://open-pdf/groups/4789270/items/J8WF4RUC?page=8&annotation=EEURSKIR))  
+([Rivas et al., 2020, p. 8](zotero://select/groups/4789270/items/9I3YCPBF))
+
+![image](attachments/6MMA7AY8.png) ([pdf](zotero://open-pdf/groups/4789270/items/J8WF4RUC?page=9&annotation=P4L2A494))  
+([Rivas et al., 2020, p. 9](zotero://select/groups/4789270/items/9I3YCPBF))
+
+![image](attachments/HSML3LFW.png) ([pdf](zotero://open-pdf/groups/4789270/items/J8WF4RUC?page=10&annotation=K7WWE6RB))  
+([Rivas et al., 2020, p. 10](zotero://select/groups/4789270/items/9I3YCPBF))
+
+![image](attachments/MF64TBA9.png) ([pdf](zotero://open-pdf/groups/4789270/items/J8WF4RUC?page=12&annotation=S8IR56UW))  
+([Rivas et al., 2020, p. 12](zotero://select/groups/4789270/items/9I3YCPBF))
+		   - 52857-Q25G5TIX	   - ---
+itemNumber: '52857'
+itemKey: Q25G5TIX
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:48:02 pm)
+
+![image](attachments/PMVIJ28E.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=2&annotation=H7XN8S5L))  
+([Chekol et al., p. 2](zotero://select/groups/4789270/items/H86D5N7E))
+
+![image](attachments/LG7HS6RX.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=2&annotation=U8ANWM6Q))  
+([Chekol et al., p. 2](zotero://select/groups/4789270/items/H86D5N7E))
+
+![image](attachments/4RM2LGDY.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=3&annotation=53W2MIPS))  
+([Chekol et al., p. 3](zotero://select/groups/4789270/items/H86D5N7E))
+
+![image](attachments/5SYW9VBL.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=3&annotation=N6RUBYZZ))  
+([Chekol et al., p. 3](zotero://select/groups/4789270/items/H86D5N7E))
+
+![image](attachments/WKMMR9EL.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=3&annotation=IK9ULZDR))  
+([Chekol et al., p. 3](zotero://select/groups/4789270/items/H86D5N7E))
+
+![image](attachments/W5PVDTZG.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=4&annotation=RXZLBEWT))  
+([Chekol et al., p. 4](zotero://select/groups/4789270/items/H86D5N7E))
+
+![image](attachments/QWD9SP3R.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=4&annotation=2UBL4K72))  
+([Chekol et al., p. 4](zotero://select/groups/4789270/items/H86D5N7E))
+
+![image](attachments/KF7T4UYZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/LCB6YJLZ?page=4&annotation=HKMSIKF7))  
+([Chekol et al., p. 4](zotero://select/groups/4789270/items/H86D5N7E))
+		   - 52876-U3X2YVNI	   - ---
+itemNumber: '52876'
+itemKey: U3X2YVNI
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:45:14 pm)
+
+![image](attachments/NIU7GDNQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/DXY2KW4M?page=3&annotation=75JRNBDJ))  
+([Wang et al., 2021, p. 3873](zotero://select/groups/4789270/items/NUFT3D3M))
+
+![image](attachments/95E8W2RR.png) ([pdf](zotero://open-pdf/groups/4789270/items/DXY2KW4M?page=4&annotation=YH53WKW8))  
+([Wang et al., 2021, p. 3874](zotero://select/groups/4789270/items/NUFT3D3M))
+
+![image](attachments/H4KL3PMK.png) ([pdf](zotero://open-pdf/groups/4789270/items/DXY2KW4M?page=8&annotation=E2TVAS2H))  
+([Wang et al., 2021, p. 3878](zotero://select/groups/4789270/items/NUFT3D3M))
+		   - 52889-VTCNYIXM	   - ---
+itemNumber: '52889'
+itemKey: VTCNYIXM
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:40:58 pm)
+
+![image](attachments/2EDGRIAG.png) ([pdf](zotero://open-pdf/groups/4789270/items/EV993XF7?page=2&annotation=3GK8M4U6))  
+([Ren et al., 2021, p. 453](zotero://select/groups/4789270/items/IY2WHVYF))
+
+![image](attachments/CJYBNEYC.png) ([pdf](zotero://open-pdf/groups/4789270/items/EV993XF7?page=3&annotation=F79NCB7E))  
+([Ren et al., 2021, p. 454](zotero://select/groups/4789270/items/IY2WHVYF))
+
+![image](attachments/THIH925I.png) ([pdf](zotero://open-pdf/groups/4789270/items/EV993XF7?page=4&annotation=M8WR52B4))  
+([Ren et al., 2021, p. 455](zotero://select/groups/4789270/items/IY2WHVYF))
+
+![image](attachments/6YBSXEGJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/EV993XF7?page=5&annotation=9WBP663K))  
+([Ren et al., 2021, p. 456](zotero://select/groups/4789270/items/IY2WHVYF))
+
+![image](attachments/9ZPHLPYU.png) ([pdf](zotero://open-pdf/groups/4789270/items/EV993XF7?page=5&annotation=2PAV53BC))  
+([Ren et al., 2021, p. 456](zotero://select/groups/4789270/items/IY2WHVYF))
+
+![image](attachments/QKQN4Z6X.png) ([pdf](zotero://open-pdf/groups/4789270/items/EV993XF7?page=5&annotation=4VGQX3K7))  
+([Ren et al., 2021, p. 456](zotero://select/groups/4789270/items/IY2WHVYF))
+		   - 52902-LKCEC7BG	   - ---
+itemNumber: '52902'
+itemKey: LKCEC7BG
+tags: [visual-design]
+
+---
+
+![image](attachments/W4BX6V76.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=5&annotation=LAELL859))  
+([Bakhshi et al., 2022, p. 5](zotero://select/groups/4789270/items/8E6XYLNW))
+
+![image](attachments/BR4GAJNW.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=5&annotation=MGETAM6X))  
+([Bakhshi et al., 2022, p. 5](zotero://select/groups/4789270/items/8E6XYLNW))
+
+![image](attachments/IYYIYNPQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=6&annotation=HHSMQTPX))  
+([Bakhshi et al., 2022, p. 6](zotero://select/groups/4789270/items/8E6XYLNW))
+
+![image](attachments/BG3JPBSU.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=11&annotation=XTCJI8L7))  
+([Bakhshi et al., 2022, p. 11](zotero://select/groups/4789270/items/8E6XYLNW))
+
+![image](attachments/NQWE6DMP.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=17&annotation=4VJKKFK5))  
+([Bakhshi et al., 2022, p. 17](zotero://select/groups/4789270/items/8E6XYLNW))
+
+![image](attachments/XLUIWX68.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=17&annotation=FTH7FFXT))  
+([Bakhshi et al., 2022, p. 17](zotero://select/groups/4789270/items/8E6XYLNW))
+
+![image](attachments/5JX3D32D.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=18&annotation=EPPSK5VB))  
+([Bakhshi et al., 2022, p. 18](zotero://select/groups/4789270/items/8E6XYLNW))
+
+![image](attachments/G3BYWQD2.png) ([pdf](zotero://open-pdf/groups/4789270/items/V67C3T4A?page=18&annotation=9NLKF7GS))  
+([Bakhshi et al., 2022, p. 18](zotero://select/groups/4789270/items/8E6XYLNW))
+		   - 52921-EVEYK58E	   - ---
+itemNumber: '52921'
+itemKey: EVEYK58E
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:36:18 pm)
+
+![image](attachments/CZNHN89G.png) ([pdf](zotero://open-pdf/groups/4789270/items/FAVYB6B2?page=4&annotation=NTZ65BSZ))  
+([Kundu et al., 2021, p. 55](zotero://select/groups/4789270/items/EFC6NMYQ))
+
+![image](attachments/YSLP7MT5.png) ([pdf](zotero://open-pdf/groups/4789270/items/FAVYB6B2?page=5&annotation=6X3W5IBS))  
+([Kundu et al., 2021, p. 56](zotero://select/groups/4789270/items/EFC6NMYQ))
+		   - 52930-43ZKP43Q	   - ---
+itemNumber: '52930'
+itemKey: 43ZKP43Q
+tags: [visual-design]
+
+---
+
+![image](attachments/7DIPXGIU.png) ([pdf](zotero://open-pdf/groups/4789270/items/RR7EZFJE?page=6&annotation=3QP5YFM5))  
+([Salmerón et al., 2013, p. 2166](zotero://select/groups/4789270/items/WLY7FTXM))
+		   - 52938-E47W8PZI	   - ---
+itemNumber: '52938'
+itemKey: E47W8PZI
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:26:53 pm)
+
+![image](attachments/WDNFDHIB.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZCV67EUL?page=6&annotation=VJXHGFR9))  
+([Wu et al., 2020, p. 104](zotero://select/groups/4789270/items/HIUVXP8W))
+
+![image](attachments/8WCUGCRC.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZCV67EUL?page=7&annotation=6KJGICM3))  
+([Wu et al., 2020, p. 105](zotero://select/groups/4789270/items/HIUVXP8W))
+		   - 52948-DAEF69G8	   - ---
+itemNumber: '52948'
+itemKey: DAEF69G8
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:22:41 pm)
+
+![image](attachments/FXZ4HGS4.png) ([pdf](zotero://open-pdf/groups/4789270/items/U5277TWW?page=2&annotation=JK5QJBL2))  
+([He et al., 2021, p. 58](zotero://select/groups/4789270/items/94RITNF7))
+
+![image](attachments/XQVUZUQ3.png) ([pdf](zotero://open-pdf/groups/4789270/items/U5277TWW?page=6&annotation=RUCK49DX))  
+([He et al., 2021, p. 62](zotero://select/groups/4789270/items/94RITNF7))
+
+![image](attachments/CWB39XV8.png) ([pdf](zotero://open-pdf/groups/4789270/items/U5277TWW?page=7&annotation=9EB38D7S))  
+([He et al., 2021, p. 63](zotero://select/groups/4789270/items/94RITNF7))
+
+![image](attachments/IRPVHHVC.png) ([pdf](zotero://open-pdf/groups/4789270/items/U5277TWW?page=7&annotation=YL6MI3RY))  
+([He et al., 2021, p. 63](zotero://select/groups/4789270/items/94RITNF7))
+
+![image](attachments/C7SDXIYB.png) ([pdf](zotero://open-pdf/groups/4789270/items/U5277TWW?page=7&annotation=AET2QWNI))  
+([He et al., 2021, p. 63](zotero://select/groups/4789270/items/94RITNF7))
+
+![image](attachments/5BYCEUJ2.png) ([pdf](zotero://open-pdf/groups/4789270/items/U5277TWW?page=7&annotation=62KW22A5))  
+([He et al., 2021, p. 63](zotero://select/groups/4789270/items/94RITNF7))
+		   - 52963-FL7CPFMG	   - ---
+itemNumber: '52963'
+itemKey: FL7CPFMG
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:19:10 pm)
+
+![image](attachments/3GZPY764.png) ([pdf](zotero://open-pdf/groups/4789270/items/B4ZP67YF?page=12&annotation=PDR676R5))  
+([Fabre et al., 2022, p. 12](zotero://select/groups/4789270/items/K2VLQ8C9))
+
+![image](attachments/SXLJXWRT.png) ([pdf](zotero://open-pdf/groups/4789270/items/B4ZP67YF?page=13&annotation=FS7NPWRM))  
+([Fabre et al., 2022, p. 13](zotero://select/groups/4789270/items/K2VLQ8C9))
+
+![image](attachments/D92PEXM3.png) ([pdf](zotero://open-pdf/groups/4789270/items/B4ZP67YF?page=14&annotation=DP2Z2S2X))  
+([Fabre et al., 2022, p. 14](zotero://select/groups/4789270/items/K2VLQ8C9))
+
+![image](attachments/32KX5V7P.png) ([pdf](zotero://open-pdf/groups/4789270/items/B4ZP67YF?page=14&annotation=B8XTD2TE))  
+([Fabre et al., 2022, p. 14](zotero://select/groups/4789270/items/K2VLQ8C9))
+
+![image](attachments/SSG73LXI.png) ([pdf](zotero://open-pdf/groups/4789270/items/B4ZP67YF?page=15&annotation=UB7LGMG3))  
+([Fabre et al., 2022, p. 15](zotero://select/groups/4789270/items/K2VLQ8C9))
+		   - 52981-UD3TPGQ8	   - ---
+itemNumber: '52981'
+itemKey: UD3TPGQ8
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:13:08 pm)
+
+![image](attachments/I4KARGDW.png) ([pdf](zotero://open-pdf/groups/4789270/items/S65222QC?page=3&annotation=5TU6ESDE))  
+([Wei et al., 2019, p. 3](zotero://select/groups/4789270/items/PZITVHYB))
+		   - 52988-LDLX3AME	   - ---
+itemNumber: '52988'
+itemKey: LDLX3AME
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 5:07:23 pm)
+
+![image](attachments/DM679SFM.png) ([pdf](zotero://open-pdf/groups/4789270/items/JTSJ26FK?page=3&annotation=HV32CCDW))  
+([Qingjie et al., 2014, p. 314](zotero://select/groups/4789270/items/HZ9D3DLT))
+
+![image](attachments/LF2QF9PZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/JTSJ26FK?page=3&annotation=PINXEPBP))  
+([Qingjie et al., 2014, p. 314](zotero://select/groups/4789270/items/HZ9D3DLT))
+
+![image](attachments/236XC9C9.png) ([pdf](zotero://open-pdf/groups/4789270/items/JTSJ26FK?page=3&annotation=9UYJMVF8))  
+([Qingjie et al., 2014, p. 314](zotero://select/groups/4789270/items/HZ9D3DLT))
+
+![image](attachments/8QE47JTF.png) ([pdf](zotero://open-pdf/groups/4789270/items/JTSJ26FK?page=4&annotation=7ZRF8K9F))  
+([Qingjie et al., 2014, p. 315](zotero://select/groups/4789270/items/HZ9D3DLT))
+
+![image](attachments/RF9RNAJR.png) ([pdf](zotero://open-pdf/groups/4789270/items/JTSJ26FK?page=4&annotation=E3977PHB))  
+([Qingjie et al., 2014, p. 315](zotero://select/groups/4789270/items/HZ9D3DLT))
+		   - 53006-NYVSDX8B	   - ---
+itemNumber: '53006'
+itemKey: NYVSDX8B
+tags: [visual-design]
+
+---
+
+![image](attachments/PJJ44SEP.png) ([pdf](zotero://open-pdf/groups/4789270/items/YIRCXRGK?page=2&annotation=EM97GCYU))  
+([Feng et al., 2021, p. 167](zotero://select/groups/4789270/items/T4LZDQ5U))
+		   - 53015-8ACKX5CN	   - ---
+itemNumber: '53015'
+itemKey: 8ACKX5CN
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 3:43:58 pm)
+
+![image](attachments/5PUL8JAZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=5&annotation=6APNDAUX))  
+([Turki et al., 2022, p. 237](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/33KC37X4.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=7&annotation=6QHSDIAD))  
+([Turki et al., 2022, p. 239](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/SZ2HYDG6.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=9&annotation=B5SLZ2AG))  
+([Turki et al., 2022, p. 241](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/LXZUM35I.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=12&annotation=UGG4HK5J))  
+([Turki et al., 2022, p. 244](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/8AYR8687.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=15&annotation=7U4ZK5JA))  
+([Turki et al., 2022, p. 247](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/X9R2DPHV.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=20&annotation=J8F8VPUN))  
+([Turki et al., 2022, p. 252](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/KULWUB6X.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=21&annotation=EBVPRW59))  
+([Turki et al., 2022, p. 253](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/RKGR3NQS.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=22&annotation=R9YDVRE2))  
+([Turki et al., 2022, p. 254](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/83543B23.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=23&annotation=KQLRLCA5))  
+([Turki et al., 2022, p. 255](zotero://select/groups/4789270/items/R2F6GGUC))
+
+![image](attachments/24QFTYYI.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZHUJH9AU?page=24&annotation=DIXE2BNH))  
+([Turki et al., 2022, p. 256](zotero://select/groups/4789270/items/R2F6GGUC))
+		   - 53038-MST88YP6	   - ---
+itemNumber: '53038'
+itemKey: MST88YP6
+tags: [visual-design]
+
+---
+
+# Annotations  
+(24/11/2022, 3:39:11 pm)
+
+![image](attachments/LIDZZSHN.png) ([pdf](zotero://open-pdf/groups/4789270/items/4P5AWLLM?page=3&annotation=VHFH52BI))  
+([Hu et al., 2021, p. 128](zotero://select/groups/4789270/items/6H27KX5D))
+
+![image](attachments/RI6WHS4T.png) ([pdf](zotero://open-pdf/groups/4789270/items/4P5AWLLM?page=3&annotation=6HYQJABF))  
+([Hu et al., 2021, p. 128](zotero://select/groups/4789270/items/6H27KX5D))
+
+![image](attachments/QM2MEJYD.png) ([pdf](zotero://open-pdf/groups/4789270/items/4P5AWLLM?page=4&annotation=NIN5ZMDP))  
+([Hu et al., 2021, p. 129](zotero://select/groups/4789270/items/6H27KX5D))
+
+![image](attachments/3HWF9UYJ.png) ([pdf](zotero://open-pdf/groups/4789270/items/4P5AWLLM?page=4&annotation=ZR6P5DFP))  
+([Hu et al., 2021, p. 129](zotero://select/groups/4789270/items/6H27KX5D))
+
+![image](attachments/2IBPR746.png) ([pdf](zotero://open-pdf/groups/4789270/items/4P5AWLLM?page=5&annotation=JPHI57HT))  
+([Hu et al., 2021, p. 130](zotero://select/groups/4789270/items/6H27KX5D))
+
+![image](attachments/VURMQBLC.png) ([pdf](zotero://open-pdf/groups/4789270/items/4P5AWLLM?page=6&annotation=U9NYVB4J))  
+([Hu et al., 2021, p. 131](zotero://select/groups/4789270/items/6H27KX5D))
+		   - 53187-4KSV3M2Y	   - ---
+itemNumber: '53187'
+itemKey: 4KSV3M2Y
+tags: [visual-design]
+
+---
+
+# Annotations
+
+![image](attachments/6P8T4TNC.png) ([pdf](zotero://open-pdf/groups/4789270/items/SBC95R7J?page=4&annotation=WHXJU2MV))  
+([Liu and Li, 2020, p. 524](zotero://select/groups/4789270/items/DG2L5PSC))
+
+![image](attachments/3W7IBBPG.png) ([pdf](zotero://open-pdf/groups/4789270/items/SBC95R7J?page=5&annotation=KKJAZ53T))  
+([Liu and Li, 2020, p. 525](zotero://select/groups/4789270/items/DG2L5PSC))
+
+![image](attachments/RPCT9MFX.png) ([pdf](zotero://open-pdf/groups/4789270/items/SBC95R7J?page=5&annotation=TGAGIXMZ))  
+([Liu and Li, 2020, p. 525](zotero://select/groups/4789270/items/DG2L5PSC))
+
+![image](attachments/NHI6K5LL.png) ([pdf](zotero://open-pdf/groups/4789270/items/SBC95R7J?page=6&annotation=JDHMTSUV))  
+([Liu and Li, 2020, p. 526](zotero://select/groups/4789270/items/DG2L5PSC))
+
+![image](attachments/NGNKASP2.png) ([pdf](zotero://open-pdf/groups/4789270/items/SBC95R7J?page=7&annotation=G36PXXTU))  
+([Liu and Li, 2020, p. 527](zotero://select/groups/4789270/items/DG2L5PSC))
+		   - 53213-A8IPNWQH	   - ---
+itemNumber: '53213'
+itemKey: A8IPNWQH
+tags: [visual-design]
+
+---
+
+![image](attachments/JT622BQE.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=2&annotation=NYL8VRXS))  
+([Hao et al., 2021, p. 2](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/Z8BZL7X5.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=3&annotation=S2N77Q5G))  
+([Hao et al., 2021, p. 3](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/RSQEBUU9.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=3&annotation=BPZ5XLFN))  
+([Hao et al., 2021, p. 3](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/J3DEV3ML.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=4&annotation=LM33E48T))  
+([Hao et al., 2021, p. 4](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/3NNKYGUQ.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=5&annotation=BF56VERT))  
+([Hao et al., 2021, p. 5](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/9W884FR8.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=6&annotation=YJ5DTTKM))  
+([Hao et al., 2021, p. 6](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/IAPYCFQM.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=7&annotation=5TIQHYMH))  
+([Hao et al., 2021, p. 7](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/XXGRVE86.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=8&annotation=6ZW4HGZ7))  
+([Hao et al., 2021, p. 8](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/XIN9ZBS2.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=9&annotation=5NG23QA2))  
+([Hao et al., 2021, p. 9](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/FA6LUJAL.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=9&annotation=NKRJ2QLJ))  
+([Hao et al., 2021, p. 9](zotero://select/groups/4789270/items/XJXLXHF8))
+
+![image](attachments/3HDBSTDN.png) ([pdf](zotero://open-pdf/groups/4789270/items/9XW8CXTZ?page=10&annotation=7RNDNIXT))  
+([Hao et al., 2021, p. 10](zotero://select/groups/4789270/items/XJXLXHF8))
+		   - 53281-2LEPLGVI	   - ---
+itemNumber: '53281'
+itemKey: 2LEPLGVI
+tags: [visual-design]
+
+---
+
+![image](attachments/WQ3ZSPSY.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=2&annotation=VDPBXLVP))  
+([Zou et al., 2020, p. 4267](zotero://select/groups/4789270/items/P6ID3PB3))
+
+![image](attachments/LBDKLQMU.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=2&annotation=EGSTS2XK))  
+([Zou et al., 2020, p. 4267](zotero://select/groups/4789270/items/P6ID3PB3))
+
+![image](attachments/EB4U8R4X.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=3&annotation=HJEYTHUE))  
+([Zou et al., 2020, p. 4268](zotero://select/groups/4789270/items/P6ID3PB3))
+
+![image](attachments/5CVKXWLB.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=3&annotation=4ZZBK6EZ))  
+([Zou et al., 2020, p. 4268](zotero://select/groups/4789270/items/P6ID3PB3))
+
+![image](attachments/UZSJYES7.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=4&annotation=VUIPEI8N))  
+Figure 8
+
+([Zou et al., 2020, p. 4269](zotero://select/groups/4789270/items/P6ID3PB3))
+
+![image](attachments/SVCPC5ES.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=4&annotation=VSQCF24H))  
+([Zou et al., 2020, p. 4269](zotero://select/groups/4789270/items/P6ID3PB3))
+
+![image](attachments/54LQP3F8.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=5&annotation=6WCHQFUD))  
+([Zou et al., 2020, p. 4270](zotero://select/groups/4789270/items/P6ID3PB3))
+
+![image](attachments/DFLQ7NDT.png) ([pdf](zotero://open-pdf/groups/4789270/items/L4UTTFFY?page=7&annotation=YQDGS9CA))  
+([Zou et al., 2020, p. 4272](zotero://select/groups/4789270/items/P6ID3PB3))
+		   - 53315-K7TRP4GG	   - ---
+itemNumber: '53315'
+itemKey: K7TRP4GG
+tags: [visual-design]
+
+---
+
+![image](attachments/QV2XDNT7.png) ([pdf](zotero://open-pdf/groups/4789270/items/3CVC46YY?page=4&annotation=I97Y26W7))  
+([Zhang et al., 2022, p. 162](zotero://select/groups/4789270/items/GR7DZIAB))
+		   - 53328-N8EYSFU8	   - ---
+itemNumber: '53328'
+itemKey: N8EYSFU8
+tags: [visual-design]
+
+---
+
+![image](attachments/G6GT6YKC.png) ([pdf](zotero://open-pdf/groups/4789270/items/2GWSFCZH?page=2&annotation=69A63NCZ))  
+([Li and Song, 2022, p. 830](zotero://select/groups/4789270/items/2CI87L6R))
+
+![image](attachments/VH8XLLQI.png) ([pdf](zotero://open-pdf/groups/4789270/items/2GWSFCZH?page=4&annotation=UXG33C6P))  
+([Li and Song, 2022, p. 832](zotero://select/groups/4789270/items/2CI87L6R))
+
+![image](attachments/Q3C5QA5D.png) ([pdf](zotero://open-pdf/groups/4789270/items/2GWSFCZH?page=8&annotation=G5JYZXIJ))  
+([Li and Song, 2022, p. 836](zotero://select/groups/4789270/items/2CI87L6R))
+		   - 53337-ETTLJZEA	   - ---
+itemNumber: '53337'
+itemKey: ETTLJZEA
+tags: [visual-design]
+
+---
+
+![image](attachments/TRGNYLDU.png) ([pdf](zotero://open-pdf/groups/4789270/items/XLJEWIBA?page=4&annotation=LPWSYU3D))  
+([Scarton et al., 2018, p. 90](zotero://select/groups/4789270/items/8DIW8CDF))
+
+![image](attachments/77Q2C42U.png) ([pdf](zotero://open-pdf/groups/4789270/items/XLJEWIBA?page=4&annotation=P787Q74L))  
+([Scarton et al., 2018, p. 90](zotero://select/groups/4789270/items/8DIW8CDF))
+
+![image](attachments/V56YIUHL.png) ([pdf](zotero://open-pdf/groups/4789270/items/XLJEWIBA?page=5&annotation=FFAYDFXK))  
+([Scarton et al., 2018, p. 91](zotero://select/groups/4789270/items/8DIW8CDF))
+		   - 53359-6DKMLLTQ	   - ---
+itemNumber: '53359'
+itemKey: 6DKMLLTQ
+tags: [visual-design]
+
+---
+
+![image](attachments/QXWWFREY.png) ([pdf](zotero://open-pdf/groups/4789270/items/AY749RS9?page=2&annotation=C798L55M))  
+([Nie et al., 2020, p. 4014](zotero://select/groups/4789270/items/PXE2A3RY))
+
+![image](attachments/U9ATHKEY.png) ([pdf](zotero://open-pdf/groups/4789270/items/AY749RS9?page=2&annotation=C3PTPL6F))  
+([Nie et al., 2020, p. 4014](zotero://select/groups/4789270/items/PXE2A3RY))
+		   - 53388-W2KZNXM5	   - ---
+itemNumber: '53388'
+itemKey: W2KZNXM5
+tags: [visual-design]
+
+---
+
+![image](attachments/327ZRABL.png) ([pdf](zotero://open-pdf/groups/4789270/items/AQ8YL9X8?page=2&annotation=N73SGNBX))  
+([Liao et al., 2021, p. 536](zotero://select/groups/4789270/items/8Z4X6EPZ))
+
+![image](attachments/8EMCGATT.png) ([pdf](zotero://open-pdf/groups/4789270/items/AQ8YL9X8?page=4&annotation=555AVSR5))  
+([Liao et al., 2021, p. 538](zotero://select/groups/4789270/items/8Z4X6EPZ))
+
+![image](attachments/9PTC7GLS.png) ([pdf](zotero://open-pdf/groups/4789270/items/AQ8YL9X8?page=8&annotation=TBWI8H7Q))  
+([Liao et al., 2021, p. 542](zotero://select/groups/4789270/items/8Z4X6EPZ))
+
+![image](attachments/2EGAFSE7.png) ([pdf](zotero://open-pdf/groups/4789270/items/AQ8YL9X8?page=9&annotation=SUXELRDK))  
+([Liao et al., 2021, p. 543](zotero://select/groups/4789270/items/8Z4X6EPZ))
+		   - 53405-X5P35YKC	   - ---
+itemNumber: '53405'
+itemKey: X5P35YKC
+tags: [visual-design]
+
+---
+
+![image](attachments/9UA354PM.png) ([pdf](zotero://open-pdf/groups/4789270/items/AD9KG3PD?page=2&annotation=LXV7KEUE))  
+([Alam and Ali, 2022, p. 35](zotero://select/groups/4789270/items/HXKRP7Z7))
+
+![image](attachments/LSP8A4AX.png) ([pdf](zotero://open-pdf/groups/4789270/items/AD9KG3PD?page=3&annotation=XFAHJCEL))  
+([Alam and Ali, 2022, p. 36](zotero://select/groups/4789270/items/HXKRP7Z7))
+
+![image](attachments/GFX5ATNZ.png) ([pdf](zotero://open-pdf/groups/4789270/items/AD9KG3PD?page=4&annotation=DE7TBWDL))  
+([Alam and Ali, 2022, p. 37](zotero://select/groups/4789270/items/HXKRP7Z7))
+
+![image](attachments/ZKMZUU3D.png) ([pdf](zotero://open-pdf/groups/4789270/items/AD9KG3PD?page=6&annotation=9Z4FC6B3))  
+([Alam and Ali, 2022, p. 39](zotero://select/groups/4789270/items/HXKRP7Z7))
+
+![image](attachments/5RTMR9YW.png) ([pdf](zotero://open-pdf/groups/4789270/items/AD9KG3PD?page=6&annotation=KDCIVHFV))  
+([Alam and Ali, 2022, p. 39](zotero://select/groups/4789270/items/HXKRP7Z7))
+		   - 53437-IF23G6KI	   - ---
+itemNumber: '53437'
+itemKey: IF23G6KI
+tags: [visual-design]
+
+---
+
+![image](attachments/P9WUT2BD.png) ([pdf](zotero://open-pdf/groups/4789270/items/EMD2MQET?page=11&annotation=G43KUG84))  
+([Gordon et al., 2021, p. 11](zotero://select/groups/4789270/items/Q6QXIA7U))
+		   - 53449-Z3HKJIAH	   - ---
+itemNumber: '53449'
+itemKey: Z3HKJIAH
+tags: [visual-design]
+
+---
+
+![image](attachments/QTSUU26C.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZNTEZIDP?page=7&annotation=4LVI7MHT))  
+([Esteban et al., 2015, p. 7](zotero://select/groups/4789270/items/AELRKAW2))
+
+![image](attachments/GUW5ADVL.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZNTEZIDP?page=8&annotation=K6Y3EUVM))  
+([Esteban et al., 2015, p. 8](zotero://select/groups/4789270/items/AELRKAW2))
+
+![image](attachments/EPQCPF67.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZNTEZIDP?page=9&annotation=58BLXL6K))  
+([Esteban et al., 2015, p. 9](zotero://select/groups/4789270/items/AELRKAW2))
+
+![image](attachments/PIBWNM4P.png) ([pdf](zotero://open-pdf/groups/4789270/items/ZNTEZIDP?page=10&annotation=Y3C7E4PA))  
+([Esteban et al., 2015, p. 10](zotero://select/groups/4789270/items/AELRKAW2))
+		   - 53494-7W4SHCTW	   - ---
+itemNumber: '53494'
+itemKey: 7W4SHCTW
+tags: [visual-design]
+
+---
+
+![image](attachments/AI46FGDX.png) ([pdf](zotero://open-pdf/groups/4789270/items/J7LCHVG3?page=4&annotation=2Y9Z9PM8))  
+([Mohammed and Fiaidhi, p. 4](zotero://select/groups/4789270/items/EGYSSKVB))
+
+![image](attachments/ETFVNV4V.png) ([pdf](zotero://open-pdf/groups/4789270/items/J7LCHVG3?page=7&annotation=N4Y55CJ3))  
+([Mohammed and Fiaidhi, p. 7](zotero://select/groups/4789270/items/EGYSSKVB))
+
+![image](attachments/3MYK58SF.png) ([pdf](zotero://open-pdf/groups/4789270/items/J7LCHVG3?page=7&annotation=UK7WDBKC))  
+([Mohammed and Fiaidhi, p. 7](zotero://select/groups/4789270/items/EGYSSKVB))
+
+![image](attachments/3A2SEXJ8.png) ([pdf](zotero://open-pdf/groups/4789270/items/J7LCHVG3?page=9&annotation=V687NJJD))  
+([Mohammed and Fiaidhi, p. 9](zotero://select/groups/4789270/items/EGYSSKVB))
+
+![image](attachments/KQ7MU2CR.png) ([pdf](zotero://open-pdf/groups/4789270/items/J7LCHVG3?page=10&annotation=YLVJK968))  
+([Mohammed and Fiaidhi, p. 10](zotero://select/groups/4789270/items/EGYSSKVB))
+		   - 53626-KVFZ6CXJ	   - ---
+itemNumber: '53626'
+itemKey: KVFZ6CXJ
+tags: [visual-design]
+
+---
+
+![image](attachments/2MI5KXDF.png) ([pdf](zotero://open-pdf/groups/4789270/items/2CTY9KSI?page=9&annotation=NYGW8EE3))  
+([Rains, 2014, p. 1303](zotero://select/groups/4789270/items/KRHJ4TWQ))
+		   - 53658-U98QMPMA	   - ---
+itemNumber: '53658'
+itemKey: U98QMPMA
+tags: [visual-design]
+
+---
+
+![image](attachments/GQIAIE3Z.png)![image](attachments/3VZMKAUU.png)![image](attachments/4KLA2JLA.png)![image](attachments/34S5STU5.png)
+
+![image](attachments/C9AGKFFZ.png)
+	
+ end-results
+<-->
